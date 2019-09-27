@@ -24,7 +24,7 @@
 
 # 2. 拆分数据后执行异或运算
 
-- 求解步骤:
+- 求解步骤[1] ：
 
   - 第1次、第2次遍历数组：对数值 1-n 及数组中的所有元素执行按位异或运算；
 
@@ -45,3 +45,9 @@
 - 注意事项：
   
   - 恒等运算符`==`的优先级高于位运算符；
+
+
+
+# Reference
+
+[1] vinod23. Solution of LeetCode 645: Set Mismatch[DB/OL]. https://leetcode.com/articles/set-mismatch/, 2017-08-01/2019-09-27.

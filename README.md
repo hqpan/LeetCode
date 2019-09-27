@@ -8,6 +8,7 @@
 
 # 2. Notes and code
 
+- [9. Palindrome Number](./Algorithms/9.Palindrome_Number/note.md).[[Code](./Algorithms/9.Palindrome_Number/Solution.java)]
 - [41.First Missing Positive](./Algorithms/41.First_Missing_Positive/note.md).[[Code](./Algorithms/41.First_Missing_Positive/Solution.java)]
 - [136.Single Number](./Algorithms/136.Single_Number/note.md).[[Code](./Algorithms/136.Single_Number/Solution.java)]
 - [268. Missing Number](./Algorithms/268.Missing_Number/note.md).[[Code](./Algorithms/268.Missing_Number/Solution.java)].
