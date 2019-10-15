@@ -4,7 +4,7 @@
 
 # 1. LeetCode 287
 
-- 龟兔赛跑算法(Tortoise and Hare Algorithm)，又称 Floyd 判圈算法(Floyd Cycle Detection Algorithm) [1]；
+- 龟兔赛跑算法(Tortoise and Hare Algorithm)，又称 Floyd 判圈算法(Floyd Cycle Detection Algorithm) [^1]；
 
 # 2. 龟兔赛跑算法
 
@@ -44,4 +44,4 @@
 
 
 # Reference
-[1] https://zh.wikipedia.org/wiki/Floyd%E5%88%A4%E5%9C%88%E7%AE%97%E6%B3%95.
+[^1]: https://zh.wikipedia.org/wiki/Floyd%E5%88%A4%E5%9C%88%E7%AE%97%E6%B3%95.

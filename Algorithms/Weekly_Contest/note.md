@@ -19,9 +19,10 @@
 
 # 3. Java 中常用的函数
 
-- `substring`：该方法从某个字符串中取子字符串；
+- `substring()`：从某个字符串中取子字符串；
 
 ```java
 substring(int beginIndex, int endIndex)
 ```
 
+- `Math.min()`：仅能接受两个参数；

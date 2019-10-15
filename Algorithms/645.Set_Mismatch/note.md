@@ -10,7 +10,7 @@
 - 排序：以快速排序为例；==No review required==
   - 时间复杂度：$O(nlogn)$；
   - 空间复杂度：$O(logn)$；
-- 建立辅助数组做标记：==No review required==
+- 创建并行数组做标记：==No review required==
   - 时间复杂度：$O(n)$；
   - 空间复杂度：$O(n)$；
 - 原地标记数组：==No review required==

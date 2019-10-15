@@ -1,6 +1,6 @@
 [TOC]
 
-# 1 LeetCode 41
+# 1. LeetCode 41
 
 - 原地标记数组；
 
