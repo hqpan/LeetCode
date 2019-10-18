@@ -9,7 +9,6 @@
  */
 
 // Approach 1: Recursion
-Recursion 
 class Solution {
     public TreeNode mergeTrees(TreeNode t1, TreeNode t2) {
         if (t2 == null)
