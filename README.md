@@ -24,3 +24,27 @@
 - [645. Set Mismatch](./Algorithms/645.Set_Mismatch/note.md).[[Code](./Algorithms/645.Set_Mismatch/Solution.java)].
 - [1184. Distance Between Bus Stops](./Algorithms/1184.Distance_Between_Bus_Stops/note.md).[[Code](./Algorithms/1184.Distance_Between_Bus_Stops/Solution.java)].
 - [Weekly Contest Notes](./Algorithms/Weekly_Contest/note.md).
+
+
+
+# 3. Unsolved
+
+- 按标签筛选，练习已学到的知识点；
+- 389;
+- ==137M==;
+- 260;
+
+
+
+- 765H?-142M?-442M;
+- 313M超级丑数-560M;
+  - 204E计算质数-279M完全平方数-23H合并k个排序链表；
+- 234E回文链表;
+- 202E快乐数-204E计算质数-794M有效的井字游戏-972H相等的有理数-800E相似RGB颜色-939M最小面积矩形；
+
+
+
+- 559EN叉树的最大深度-662M二叉树的最大宽度；
+  - 173M二叉搜索树迭代器-889根据前序和后序遍历构造二叉树；
+  - 987M二叉树的垂序遍历-99恢复二叉搜索树H；
+  - 110E平衡二叉树-102M二叉树的层次遍历；
