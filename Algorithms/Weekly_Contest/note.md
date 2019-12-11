@@ -17,7 +17,7 @@
 
 
 
-# 3. Java 中常用的函数
+# 3. Java 中常用的方法
 
 - `substring()`：从某个字符串中取子字符串；
 
@@ -26,3 +26,20 @@ substring(int beginIndex, int endIndex)
 ```
 
 - `Math.min()`：仅能接受两个参数；
+
+
+
+# 4. Java 中常用的类
+
+- List：对于`List`可使用`get(index)`方法，按索引返回`List`的对应元素；
+
+```java
+List<List<Integer>> list = new ArrayList<List<>>();
+```
+
+- Queue:
+
+```java
+Queue<Integer> queue = new LinkedList<>();
+```
+
