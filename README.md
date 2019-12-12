@@ -15,6 +15,7 @@
 - [102. Binary Tree Level Order Traversal](./Algorithms/102.Binary_Tree_Level_Order_Traversal/note.md).[[Code](./Algorithms/102.Binary_Tree_Level_Order_Traversal/Solution.java)].
 - [104. Maximum Depth of Binary Tree](./Algorithms/104.Maximum_Depth_of_Binary_Tree/note.md).[[Code](./Algorithms/104.Maximum_Depth_of_Binary_Tree/Solution.java)].
 - [111. Minimum Depth of Binary Tree](./Algorithms/111.Minimum_Depth_of_Binary_Tree/note.md).[[Code](./Algorithms/111.Minimum_Depth_of_Binary_Tree/Solution.java)].
+- [112. Path Sum](./Algorithms/112.Path_Sum/note.md).[[Code](./Algorithms/112.Path_Sum/Solution.java)].
 - [136. Single Number](./Algorithms/136.Single_Number/note.md).[[Code](./Algorithms/136.Single_Number/Solution.java)].
 - [137. Single Number II](./Algorithms/137.Single_Number_II/note.md).[[Code](./Algorithms/137.Single_Number_II/Solution.java)].
 - [144. Binary Tree Preorder Traversal](./Algorithms/144.Binary_Tree_Preorder_Traversal/note.md).[[Code](./Algorithms/144.Binary_Tree_Preorder_Traversal/Solution.java)].==无需复习==
