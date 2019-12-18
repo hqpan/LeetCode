@@ -8,6 +8,7 @@
 
 # 2. Notes and code
 
+- [1. Two Sum](./Algorithms/1.Two_Sum/note.md).[[Code](./Algorithms/1.Two_Sum/Solution.java)].
 - [9. Palindrome Number](./Algorithms/9.Palindrome_Number/note.md).[[Code](./Algorithms/9.Palindrome_Number/Solution.java)].
 - [41. First Missing Positive](./Algorithms/41.First_Missing_Positive/note.md).[[Code](./Algorithms/41.First_Missing_Positive/Solution.java)].
 - [94. Binary Tree Inorder Traversal](./Algorithms/94.Binary_Tree_Inorder_Traversal/note.md).[[Code](./Algorithms/94.Binary_Tree_Inorder_Traversal/Solution.java)].
@@ -24,6 +25,7 @@
 - [264. Ugly_Number_II](./Algorithms/264.Ugly_Number_II/note.md).[[Code](./Algorithms/264.Ugly_Number_II/Solution.java)].
 - [268. Missing Number](./Algorithms/268.Missing_Number/note.md).[[Code](./Algorithms/268.Missing_Number/Solution.java)].
 - [287. Find the Duplicate Number](./Algorithms/287.Find_the_Duplicate_Number/note.md).[[Code](./Algorithms/287.Find_the_Duplicate_Number/Solution.java)].
+- [437. Path Sum III](./Algorithms/437.Path_Sum_III/note.md).[[Code](./Algorithms/437.Path_Sum_III/Solution.java)].
 - [448. Find All Numbers Disappeared in an Array](./Algorithms/448.Find_All_Numbers_Disappeared_in_an_Array/note.md).[[Code](./Algorithms/448.Find_All_Numbers_Disappeared_in_an_Array/Solution.java)].
 - [507. Perfect Number](./Algorithms/507.Perfect_Number/note.md).[[Code](./Algorithms/507.Perfect_Number/Solution.java)].
 - [538. Convert BST to Greater Tree](./Algorithms/538.Convert_BST_to_Greater_Tree/note.md).[[Code](./Algorithms/538.Convert_BST_to_Greater_Tree/Solution.java)].
