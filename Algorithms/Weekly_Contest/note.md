@@ -43,3 +43,13 @@ List<List<Integer>> list = new ArrayList<List<>>();
 Queue<Integer> queue = new LinkedList<>();
 ```
 
+
+
+# 5. 返回值
+
+- 返回数组：
+
+```java
+return int[] {1, 2};
+```
+

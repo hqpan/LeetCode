@@ -34,7 +34,7 @@ class Solution {
                 return new int[] {i, st.get(target - nums[i])};
             st.put(nums[i], i);
         }
-        return new int[] {-1, -1};
+        throw new IllegalArgumentException("No two sum solution");
     }
 }
 
