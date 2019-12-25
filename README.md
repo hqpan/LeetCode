@@ -6,7 +6,7 @@
 
 
 
-# 2. Notes and code
+# 2. Algorithm
 
 - [1. Two Sum](./Algorithms/1.Two_Sum/note.md).[[Code](./Algorithms/1.Two_Sum/Solution.java)].
 - [9. Palindrome Number](./Algorithms/9.Palindrome_Number/note.md).[[Code](./Algorithms/9.Palindrome_Number/Solution.java)].
@@ -37,7 +37,13 @@
 
 
 
-# 3. Unsolved
+# 3. Database
+
+- [595. Big Countries](./Algorithms/595.Big_Countries/note.md).[[Code](./Algorithms/595.Big_Countries/Solution.java)].==无需复习==
+
+
+
+# 4. Unsolved
 
 - 按标签筛选，练习已学到的知识点；
 - 389;
