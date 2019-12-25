@@ -39,7 +39,7 @@
 
 # 3. Database
 
-- [595. Big Countries](./Algorithms/595.Big_Countries/note.md).[[Code](./Algorithms/595.Big_Countries/Solution.java)].==无需复习==
+- [595. Big Countries](./Algorithms/595.Big_Countries/note.md).[[Code](./Algorithms/595.Big_Countries/Solution.sql)].==无需复习==
 
 
 
