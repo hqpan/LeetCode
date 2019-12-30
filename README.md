@@ -12,6 +12,7 @@
 - [9. Palindrome Number](./Algorithms/9.Palindrome_Number/note.md).[[Code](./Algorithms/9.Palindrome_Number/Solution.java)].
 - [41. First Missing Positive](./Algorithms/41.First_Missing_Positive/note.md).[[Code](./Algorithms/41.First_Missing_Positive/Solution.java)].
 - [94. Binary Tree Inorder Traversal](./Algorithms/94.Binary_Tree_Inorder_Traversal/note.md).[[Code](./Algorithms/94.Binary_Tree_Inorder_Traversal/Solution.java)].
+- [98. Validate Binary Search Tree](./Algorithms/98.Validate_Binary_Search_Tree/note.md).[[Code](./Algorithms/98.Validate_Binary_Search_Tree/Solution.java)].
 - [101. Symmetric Tree](./Algorithms/101.Symmetric_Tree/note.md).[[Code](./Algorithms/101.Symmetric_Tree/Solution.java)].
 - [102. Binary Tree Level Order Traversal](./Algorithms/102.Binary_Tree_Level_Order_Traversal/note.md).[[Code](./Algorithms/102.Binary_Tree_Level_Order_Traversal/Solution.java)].
 - [104. Maximum Depth of Binary Tree](./Algorithms/104.Maximum_Depth_of_Binary_Tree/note.md).[[Code](./Algorithms/104.Maximum_Depth_of_Binary_Tree/Solution.java)].
@@ -30,6 +31,7 @@
 - [507. Perfect Number](./Algorithms/507.Perfect_Number/note.md).[[Code](./Algorithms/507.Perfect_Number/Solution.java)].
 - [538. Convert BST to Greater Tree](./Algorithms/538.Convert_BST_to_Greater_Tree/note.md).[[Code](./Algorithms/538.Convert_BST_to_Greater_Tree/Solution.java)].
 - [543. Diameter of Binary Tree](./Algorithms/543.Diameter_of_Binary_Tree/note.md).[[Code](./Algorithms/543.Diameter_of_Binary_Tree/Solution.java)].
+- [589. N-ary Tree Preorder Traversal](./Algorithms/589.N-ary_Tree_Preorder_Traversal/note.md).[[Code](./Algorithms/589.N-ary_Tree_Preorder_Traversal/Solution.java)].
 - [617. Merge Two Binary Trees](./Algorithms/617.Merge_Two_Binary_Trees/note.md).[[Code](./Algorithms/617.Merge_Two_Binary_Trees/Solution.java)].
 - [645. Set Mismatch](./Algorithms/645.Set_Mismatch/note.md).[[Code](./Algorithms/645.Set_Mismatch/Solution.java)].
 - [1184. Distance Between Bus Stops](./Algorithms/1184.Distance_Between_Bus_Stops/note.md).[[Code](./Algorithms/1184.Distance_Between_Bus_Stops/Solution.java)].
