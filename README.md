@@ -49,6 +49,7 @@
 - [184. Department Highest Salary](./Algorithms/184.Department_Highest_Salary/note.md).[[Code](./Algorithms/184.Department_Highest_Salary/Solution.sql)].
 - [197. Rising Temperature](./Algorithms/197.Rising_Temperature/note.md).[[Code](./Algorithms/197.Rising_Temperature/Solution.sql)].==无需复习==
 - [595. Big Countries](./Algorithms/595.Big_Countries/note.md).[[Code](./Algorithms/595.Big_Countries/Solution.sql)].==无需复习==
+- [596. Classes More Than 5 Students](./Algorithms/596.Classes_More_Than_5_Students/note.md).[[Code](./Algorithms/596.Classes_More_Than_5_Students/Solution.sql)].==无需复习==
 - [620. Not Boring Movies](./Algorithms/620.Not_Boring_Movies/note.md).[[Code](./Algorithms/620.Not_Boring_Movies/Solution.sql)].==无需复习==
 
 
