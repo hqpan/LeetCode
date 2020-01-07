@@ -21,6 +21,7 @@
 - [136. Single Number](./Algorithms/136.Single_Number/note.md).[[Code](./Algorithms/136.Single_Number/Solution.java)].
 - [137. Single Number II](./Algorithms/137.Single_Number_II/note.md).[[Code](./Algorithms/137.Single_Number_II/Solution.java)].
 - [144. Binary Tree Preorder Traversal](./Algorithms/144.Binary_Tree_Preorder_Traversal/note.md).[[Code](./Algorithms/144.Binary_Tree_Preorder_Traversal/Solution.java)].==无需复习==
+- [155. Min Stack](./Algorithms/155.Min_Stack/note.md).[[Code](./Algorithms/155.Min_Stack/Solution.java)].
 - [226. Invert Binary Tree](./Algorithms/226.Invert_Binary_Tree/note.md).[[Code](./Algorithms/226.Invert_Binary_Tree/Solution.java)].
 - [263. Ugly Number](./Algorithms/263.Ugly_Number/note.md).[[Code](./Algorithms/263.Ugly_Number/Solution.java)].
 - [264. Ugly_Number_II](./Algorithms/264.Ugly_Number_II/note.md).[[Code](./Algorithms/264.Ugly_Number_II/Solution.java)].
@@ -51,6 +52,7 @@
 - [595. Big Countries](./Algorithms/595.Big_Countries/note.md).[[Code](./Algorithms/595.Big_Countries/Solution.sql)].==无需复习==
 - [596. Classes More Than 5 Students](./Algorithms/596.Classes_More_Than_5_Students/note.md).[[Code](./Algorithms/596.Classes_More_Than_5_Students/Solution.sql)].==无需复习==
 - [620. Not Boring Movies](./Algorithms/620.Not_Boring_Movies/note.md).[[Code](./Algorithms/620.Not_Boring_Movies/Solution.sql)].==无需复习==
+- [627. Swap Salary](./Algorithms/627.Swap_Salary/note.md).[[Code](./Algorithms/627.Swap_Salary/Solution.sql)].==无需复习==
 
 
 
