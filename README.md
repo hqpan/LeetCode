@@ -22,6 +22,7 @@
 - [137. Single Number II](./Algorithms/137.Single_Number_II/note.md).[[Code](./Algorithms/137.Single_Number_II/Solution.java)].
 - [144. Binary Tree Preorder Traversal](./Algorithms/144.Binary_Tree_Preorder_Traversal/note.md).[[Code](./Algorithms/144.Binary_Tree_Preorder_Traversal/Solution.java)].==无需复习==
 - [155. Min Stack](./Algorithms/155.Min_Stack/note.md).[[Code](./Algorithms/155.Min_Stack/Solution.java)].
+- [206. Reverse Linked List](./Algorithms/206.Reverse_Linked_List/note.md).[[Code](./Algorithms/206.Reverse_Linked_List/Solution.java)].
 - [226. Invert Binary Tree](./Algorithms/226.Invert_Binary_Tree/note.md).[[Code](./Algorithms/226.Invert_Binary_Tree/Solution.java)].
 - [263. Ugly Number](./Algorithms/263.Ugly_Number/note.md).[[Code](./Algorithms/263.Ugly_Number/Solution.java)].
 - [264. Ugly_Number_II](./Algorithms/264.Ugly_Number_II/note.md).[[Code](./Algorithms/264.Ugly_Number_II/Solution.java)].
@@ -48,6 +49,7 @@
 - [182. Duplicate Emails](./Algorithms/182.Duplicate_Emails/note.md).[[Code](./Algorithms/182.Duplicate_Emails/Solution.sql)].
 - [183. Customers Who Never Order](./Algorithms/183.Customers_Who_Never_Order/note.md).[[Code](./Algorithms/183.Customers_Who_Never_Order/Solution.sql)].==无需复习==
 - [184. Department Highest Salary](./Algorithms/184.Department_Highest_Salary/note.md).[[Code](./Algorithms/184.Department_Highest_Salary/Solution.sql)].
+- [196. Delete Duplicate Emails](./Algorithms/196.Delete_Duplicate_Emails/note.md).[[Code](./Algorithms/196.Delete_Duplicate_Emails/Solution.sql)].==无需复习==
 - [197. Rising Temperature](./Algorithms/197.Rising_Temperature/note.md).[[Code](./Algorithms/197.Rising_Temperature/Solution.sql)].==无需复习==
 - [595. Big Countries](./Algorithms/595.Big_Countries/note.md).[[Code](./Algorithms/595.Big_Countries/Solution.sql)].==无需复习==
 - [596. Classes More Than 5 Students](./Algorithms/596.Classes_More_Than_5_Students/note.md).[[Code](./Algorithms/596.Classes_More_Than_5_Students/Solution.sql)].==无需复习==
