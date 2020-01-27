@@ -11,6 +11,7 @@
 - [1. Two Sum](./Algorithms/1.Two_Sum/note.md).[[Code](./Algorithms/1.Two_Sum/Solution.java)].
 - [9. Palindrome Number](./Algorithms/9.Palindrome_Number/note.md).[[Code](./Algorithms/9.Palindrome_Number/Solution.java)].
 - [41. First Missing Positive](./Algorithms/41.First_Missing_Positive/note.md).[[Code](./Algorithms/41.First_Missing_Positive/Solution.java)].
+- [74. Search a 2D Matrix](./Algorithms/74.Search_a_2D_Matrix/note.md).[[Code](./Algorithms/74.Search_a_2D_Matrix/Solution.java)]. 74-240.
 - [94. Binary Tree Inorder Traversal](./Algorithms/94.Binary_Tree_Inorder_Traversal/note.md).[[Code](./Algorithms/94.Binary_Tree_Inorder_Traversal/Solution.java)].
 - [98. Validate Binary Search Tree](./Algorithms/98.Validate_Binary_Search_Tree/note.md).[[Code](./Algorithms/98.Validate_Binary_Search_Tree/Solution.java)].
 - [101. Symmetric Tree](./Algorithms/101.Symmetric_Tree/note.md).[[Code](./Algorithms/101.Symmetric_Tree/Solution.java)].
@@ -24,6 +25,7 @@
 - [155. Min Stack](./Algorithms/155.Min_Stack/note.md).[[Code](./Algorithms/155.Min_Stack/Solution.java)].
 - [206. Reverse Linked List](./Algorithms/206.Reverse_Linked_List/note.md).[[Code](./Algorithms/206.Reverse_Linked_List/Solution.java)].
 - [226. Invert Binary Tree](./Algorithms/226.Invert_Binary_Tree/note.md).[[Code](./Algorithms/226.Invert_Binary_Tree/Solution.java)].
+- [240. Search a 2D Matrix II](./Algorithms/240.Search_a_2D_Matrix_II/note.md).[[Code](./Algorithms/240.Search_a_2D_Matrix_II/Solution.java)]. 74-240.
 - [263. Ugly Number](./Algorithms/263.Ugly_Number/note.md).[[Code](./Algorithms/263.Ugly_Number/Solution.java)].
 - [264. Ugly_Number_II](./Algorithms/264.Ugly_Number_II/note.md).[[Code](./Algorithms/264.Ugly_Number_II/Solution.java)].
 - [268. Missing Number](./Algorithms/268.Missing_Number/note.md).[[Code](./Algorithms/268.Missing_Number/Solution.java)].
