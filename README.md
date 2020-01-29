@@ -17,6 +17,8 @@
 - [101. Symmetric Tree](./Algorithms/101.Symmetric_Tree/note.md).[[Code](./Algorithms/101.Symmetric_Tree/Solution.java)].
 - [102. Binary Tree Level Order Traversal](./Algorithms/102.Binary_Tree_Level_Order_Traversal/note.md).[[Code](./Algorithms/102.Binary_Tree_Level_Order_Traversal/Solution.java)].
 - [104. Maximum Depth of Binary Tree](./Algorithms/104.Maximum_Depth_of_Binary_Tree/note.md).[[Code](./Algorithms/104.Maximum_Depth_of_Binary_Tree/Solution.java)].
+- [105. Construct Binary Tree from Preorder and Inorder Traversal](./Algorithms/105.Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/note.md).[[Code](./Algorithms/105.Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/Solution.java)].
+- [106. Construct Binary Tree from Inorder and Postorder Traversal](./Algorithms/106.Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal/note.md).[[Code](./Algorithms/106.Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal/Solution.java)].
 - [111. Minimum Depth of Binary Tree](./Algorithms/111.Minimum_Depth_of_Binary_Tree/note.md).[[Code](./Algorithms/111.Minimum_Depth_of_Binary_Tree/Solution.java)].
 - [112. Path Sum](./Algorithms/112.Path_Sum/note.md).[[Code](./Algorithms/112.Path_Sum/Solution.java)].
 - [136. Single Number](./Algorithms/136.Single_Number/note.md).[[Code](./Algorithms/136.Single_Number/Solution.java)].
@@ -38,6 +40,7 @@
 - [589. N-ary Tree Preorder Traversal](./Algorithms/589.N-ary_Tree_Preorder_Traversal/note.md).[[Code](./Algorithms/589.N-ary_Tree_Preorder_Traversal/Solution.java)].
 - [617. Merge Two Binary Trees](./Algorithms/617.Merge_Two_Binary_Trees/note.md).[[Code](./Algorithms/617.Merge_Two_Binary_Trees/Solution.java)].
 - [645. Set Mismatch](./Algorithms/645.Set_Mismatch/note.md).[[Code](./Algorithms/645.Set_Mismatch/Solution.java)].
+- [889. Construct Binary Tree from Preorder and Postorder Traversal](./Algorithms/889.Construct_Binary_Tree_from_Preorder_and_Postorder_Traversal/note.md).[[Code](./Algorithms/889.Construct_Binary_Tree_from_Preorder_and_Postorder_Traversal/Solution.java)].
 - [1184. Distance Between Bus Stops](./Algorithms/1184.Distance_Between_Bus_Stops/note.md).[[Code](./Algorithms/1184.Distance_Between_Bus_Stops/Solution.java)].
 - [Weekly Contest Notes](./Algorithms/Weekly_Contest/note.md).
 
