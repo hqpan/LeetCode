@@ -26,7 +26,9 @@
 - [144. Binary Tree Preorder Traversal](./Algorithms/144.Binary_Tree_Preorder_Traversal/note.md).[[Code](./Algorithms/144.Binary_Tree_Preorder_Traversal/Solution.java)].==无需复习==
 - [155. Min Stack](./Algorithms/155.Min_Stack/note.md).[[Code](./Algorithms/155.Min_Stack/Solution.java)].
 - [206. Reverse Linked List](./Algorithms/206.Reverse_Linked_List/note.md).[[Code](./Algorithms/206.Reverse_Linked_List/Solution.java)].
+- [225. Implement Stack using Queues](./Algorithms/225.Implement_Stack_using_Queues/note.md).[[Code](./Algorithms/225.Implement_Stack_using_Queues/Solution.java)]. 225-232
 - [226. Invert Binary Tree](./Algorithms/226.Invert_Binary_Tree/note.md).[[Code](./Algorithms/226.Invert_Binary_Tree/Solution.java)].
+- [232. Implement Queue using Stacks](./Algorithms/232.Implement_Queue_using_Stacks/note.md).[[Code](./Algorithms/232.Implement_Queue_using_Stacks/Solution.java)]. 225-232
 - [240. Search a 2D Matrix II](./Algorithms/240.Search_a_2D_Matrix_II/note.md).[[Code](./Algorithms/240.Search_a_2D_Matrix_II/Solution.java)]. 74-240.
 - [263. Ugly Number](./Algorithms/263.Ugly_Number/note.md).[[Code](./Algorithms/263.Ugly_Number/Solution.java)].
 - [264. Ugly_Number_II](./Algorithms/264.Ugly_Number_II/note.md).[[Code](./Algorithms/264.Ugly_Number_II/Solution.java)].
