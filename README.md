@@ -10,9 +10,11 @@
 
 - [1. Two Sum](./Algorithms/1.Two_Sum/note.md).[[Code](./Algorithms/1.Two_Sum/Solution.java)].
 - [9. Palindrome Number](./Algorithms/9.Palindrome_Number/note.md).[[Code](./Algorithms/9.Palindrome_Number/Solution.java)].
+- [33. Search in Rotated Sorted Array](./Algorithms/33.Search_in_Rotated_Sorted_Array/note.md).[[Code](./Algorithms/33.Search_in_Rotated_Sorted_Array/Solution.java)]. 33-81-153-154.
 - [41. First Missing Positive](./Algorithms/41.First_Missing_Positive/note.md).[[Code](./Algorithms/41.First_Missing_Positive/Solution.java)].
 - [70. Climbing Stairs](./Algorithms/70.Climbing_Stairs/note.md).[[Code](./Algorithms/70.Climbing_Stairs/Solution.java)]. 70-509-1137.
 - [74. Search a 2D Matrix](./Algorithms/74.Search_a_2D_Matrix/note.md).[[Code](./Algorithms/74.Search_a_2D_Matrix/Solution.java)]. 74-240.
+- [81. Search in Rotated Sorted Array II](./Algorithms/81.Search_in_Rotated_Sorted_Array_II/note.md).[[Code](./Algorithms/81.Search_in_Rotated_Sorted_Array_II/Solution.java)]. 33-81-153-154.
 - [94. Binary Tree Inorder Traversal](./Algorithms/94.Binary_Tree_Inorder_Traversal/note.md).[[Code](./Algorithms/94.Binary_Tree_Inorder_Traversal/Solution.java)].
 - [98. Validate Binary Search Tree](./Algorithms/98.Validate_Binary_Search_Tree/note.md).[[Code](./Algorithms/98.Validate_Binary_Search_Tree/Solution.java)].
 - [101. Symmetric Tree](./Algorithms/101.Symmetric_Tree/note.md).[[Code](./Algorithms/101.Symmetric_Tree/Solution.java)].
@@ -25,6 +27,8 @@
 - [136. Single Number](./Algorithms/136.Single_Number/note.md).[[Code](./Algorithms/136.Single_Number/Solution.java)].
 - [137. Single Number II](./Algorithms/137.Single_Number_II/note.md).[[Code](./Algorithms/137.Single_Number_II/Solution.java)].
 - [144. Binary Tree Preorder Traversal](./Algorithms/144.Binary_Tree_Preorder_Traversal/note.md).[[Code](./Algorithms/144.Binary_Tree_Preorder_Traversal/Solution.java)].==无需复习==
+- [153. Find Minimum in Rotated Sorted Array](./Algorithms/153.Find_Minimum_in_Rotated_Sorted_Array/note.md).[[Code](./Algorithms/153.Find_Minimum_in_Rotated_Sorted_Array/Solution.java)]. 33-81-153-154.
+- [154. Find Minimum in Rotated Sorted Array II](./Algorithms/154.Find_Minimum_in_Rotated_Sorted_Array_II/note.md).[[Code](./Algorithms/154.Find_Minimum_in_Rotated_Sorted_Array_II/Solution.java)]. 33-81-153-154.
 - [155. Min Stack](./Algorithms/155.Min_Stack/note.md).[[Code](./Algorithms/155.Min_Stack/Solution.java)].
 - [206. Reverse Linked List](./Algorithms/206.Reverse_Linked_List/note.md).[[Code](./Algorithms/206.Reverse_Linked_List/Solution.java)].
 - [225. Implement Stack using Queues](./Algorithms/225.Implement_Stack_using_Queues/note.md).[[Code](./Algorithms/225.Implement_Stack_using_Queues/Solution.java)]. 225-232
