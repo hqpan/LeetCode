@@ -15,7 +15,7 @@
 - [41. First Missing Positive](./Algorithms/41.First_Missing_Positive/note.md).[[Code](./Algorithms/41.First_Missing_Positive/Solution.java)].
 - [70. Climbing Stairs](./Algorithms/70.Climbing_Stairs/note.md).[[Code](./Algorithms/70.Climbing_Stairs/Solution.java)]. 70-509-1137；
 - [74. Search a 2D Matrix](./Algorithms/74.Search_a_2D_Matrix/note.md).[[Code](./Algorithms/74.Search_a_2D_Matrix/Solution.java)]. 74-240；
-- [79. Word Search](./Algorithms/79.Word_ Search/note.md).[[Code](./Algorithms/79.Word_ Search/Solution.java)]. 回溯；
+- [79. Word Search](./Algorithms/79.Word_Search/note.md).[[Code](./Algorithms/79.Word_Search/Solution.java)]. 回溯；
 - [81. Search in Rotated Sorted Array II](./Algorithms/81.Search_in_Rotated_Sorted_Array_II/note.md).[[Code](./Algorithms/81.Search_in_Rotated_Sorted_Array_II/Solution.java)]. 33-81-153-154；
 - [94. Binary Tree Inorder Traversal](./Algorithms/94.Binary_Tree_Inorder_Traversal/note.md).[[Code](./Algorithms/94.Binary_Tree_Inorder_Traversal/Solution.java)].
 - [98. Validate Binary Search Tree](./Algorithms/98.Validate_Binary_Search_Tree/note.md).[[Code](./Algorithms/98.Validate_Binary_Search_Tree/Solution.java)].
