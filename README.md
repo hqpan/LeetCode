@@ -43,6 +43,7 @@
 - [264. Ugly_Number_II](./Algorithms/264.Ugly_Number_II/note.md).[[Code](./Algorithms/264.Ugly_Number_II/Solution.java)].
 - [268. Missing Number](./Algorithms/268.Missing_Number/note.md).[[Code](./Algorithms/268.Missing_Number/Solution.java)].
 - [287. Find the Duplicate Number](./Algorithms/287.Find_the_Duplicate_Number/note.md).[[Code](./Algorithms/287.Find_the_Duplicate_Number/Solution.java)].
+- [343. Integer Break](./Algorithms/343.Integer_Break/note.md).[[Code](./Algorithms/343.Integer_Break/Solution.java)]. 剑指Offer 14；
 - [437. Path Sum III](./Algorithms/437.Path_Sum_III/note.md).[[Code](./Algorithms/437.Path_Sum_III/Solution.java)].
 - [448. Find All Numbers Disappeared in an Array](./Algorithms/448.Find_All_Numbers_Disappeared_in_an_Array/note.md).[[Code](./Algorithms/448.Find_All_Numbers_Disappeared_in_an_Array/Solution.java)].
 - [461. Hamming Distance](./Algorithms/461.Hamming_Distance/note.md).[[Code](./Algorithms/461.Hamming_Distance/Solution.java)]. 位运算：191-231-461；
@@ -60,7 +61,13 @@
 
 
 
-# 3. Database
+# 3. 剑指 Offer
+
+- [剑指Offer 14-I & 14-II](./Algorithms/Offer14/note.md).[[Code](./Algorithms/Offer14/Solution.java)]. 343；
+
+
+
+# 4. Database
 
 - [175. Combine Two Tables](./Algorithms/175.Combine_Two_Tables/note.md).[[Code](./Algorithms/175.Combine_Two_Tables/Solution.sql)].==无需复习==
 - [176. Second Highest Salary](./Algorithms/176.Second_Highest_Salary/note.md).[[Code](./Algorithms/176.Second_Highest_Salary/Solution.sql)].
@@ -77,7 +84,7 @@
 
 
 
-# 4. Unsolved
+# 5. Unsolved
 
 - 按标签筛选，练习已学到的知识点；
 - 389;
