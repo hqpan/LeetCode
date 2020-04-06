@@ -13,6 +13,8 @@
 - [9. Palindrome Number](./Algorithms/9.Palindrome_Number/note.md).[[Code](./Algorithms/9.Palindrome_Number/Solution.java)].
 - [33. Search in Rotated Sorted Array](./Algorithms/33.Search_in_Rotated_Sorted_Array/note.md).[[Code](./Algorithms/33.Search_in_Rotated_Sorted_Array/Solution.java)]. 33-81-153-154；
 - [41. First Missing Positive](./Algorithms/41.First_Missing_Positive/note.md).[[Code](./Algorithms/41.First_Missing_Positive/Solution.java)].
+- [50. Pow(x,n)](./Algorithms/50.Pow(x,n)/note.md).[[Code](./Algorithms/50.Pow(x,n)/Solution.java)]. 50-剑指Offer 16；
+- [65. Valid Number](./Algorithms/65.Valid_Number/note.md).[[Code](./Algorithms/65.Valid_Number/Solution.java)]. 65-剑指Offer 20；
 - [70. Climbing Stairs](./Algorithms/70.Climbing_Stairs/note.md).[[Code](./Algorithms/70.Climbing_Stairs/Solution.java)]. 70-509-1137；
 - [74. Search a 2D Matrix](./Algorithms/74.Search_a_2D_Matrix/note.md).[[Code](./Algorithms/74.Search_a_2D_Matrix/Solution.java)]. 74-240；
 - [79. Word Search](./Algorithms/79.Word_Search/note.md).[[Code](./Algorithms/79.Word_Search/Solution.java)]. 回溯；
@@ -43,7 +45,7 @@
 - [264. Ugly_Number_II](./Algorithms/264.Ugly_Number_II/note.md).[[Code](./Algorithms/264.Ugly_Number_II/Solution.java)].
 - [268. Missing Number](./Algorithms/268.Missing_Number/note.md).[[Code](./Algorithms/268.Missing_Number/Solution.java)].
 - [287. Find the Duplicate Number](./Algorithms/287.Find_the_Duplicate_Number/note.md).[[Code](./Algorithms/287.Find_the_Duplicate_Number/Solution.java)].
-- [343. Integer Break](./Algorithms/343.Integer_Break/note.md).[[Code](./Algorithms/343.Integer_Break/Solution.java)]. 剑指Offer 14；
+- [343. Integer Break](./Algorithms/343.Integer_Break/note.md).[[Code](./Algorithms/343.Integer_Break/Solution.java)]. 343-剑指Offer 14；
 - [437. Path Sum III](./Algorithms/437.Path_Sum_III/note.md).[[Code](./Algorithms/437.Path_Sum_III/Solution.java)].
 - [448. Find All Numbers Disappeared in an Array](./Algorithms/448.Find_All_Numbers_Disappeared_in_an_Array/note.md).[[Code](./Algorithms/448.Find_All_Numbers_Disappeared_in_an_Array/Solution.java)].
 - [461. Hamming Distance](./Algorithms/461.Hamming_Distance/note.md).[[Code](./Algorithms/461.Hamming_Distance/Solution.java)]. 位运算：191-231-461；
@@ -63,7 +65,13 @@
 
 # 3. 剑指 Offer
 
-- [剑指Offer 14-I & 14-II](./Algorithms/Offer14/note.md).[[Code](./Algorithms/Offer14/Solution.java)]. 343；
+- [剑指Offer 14-I & 14-II](./Algorithms/Offer14/note.md).[[Code](./Algorithms/Offer14/Solution.java)]. 343-剑指Offer 14；
+- [剑指Offer 16](./Algorithms/Offer16/note.md).[[Code](./Algorithms/Offer16/Solution.java)]. 50-剑指Offer 16；
+- 剑指Offer 17. 在 LeetCode 中被弱化，此处不再赘述；
+- [剑指Offer 18](./Algorithms/Offer18/note.md).[[Code](./Algorithms/Offer18/Solution.java)].
+- [剑指Offer 20](./Algorithms/Offer20/note.md).[[Code](./Algorithms/Offer20/Solution.java)]. 65-剑指Offer 20；
+- [剑指Offer 21](./Algorithms/Offer21/note.md).[[Code](./Algorithms/Offer21/Solution.java)]. 
+- [剑指Offer 22](./Algorithms/Offer22/note.md).[[Code](./Algorithms/Offer22/Solution.java)]. 
 
 
 
@@ -101,6 +109,6 @@
 
 
 - 559EN叉树的最大深度-662M二叉树的最大宽度；
-  - 173M二叉搜索树迭代器-889根据前序和后序遍历构造二叉树；
+  - 173M二叉搜索树迭代器；
   - 987M二叉树的垂序遍历-99恢复二叉搜索树H；
-  - 110E平衡二叉树-102M二叉树的层次遍历；
+  - 110E平衡二叉树；
