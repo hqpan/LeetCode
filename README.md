@@ -35,7 +35,7 @@
 - [154. Find Minimum in Rotated Sorted Array II](./Algorithms/154.Find_Minimum_in_Rotated_Sorted_Array_II/note.md).[[Code](./Algorithms/154.Find_Minimum_in_Rotated_Sorted_Array_II/Solution.java)]. 33-81-153-154；
 - [155. Min Stack](./Algorithms/155.Min_Stack/note.md).[[Code](./Algorithms/155.Min_Stack/Solution.java)].
 - [191. Number of 1 Bits](./Algorithms/191.Number_of_1_Bits/note.md).[[Code](./Algorithms/191.Number_of_1_Bits/Solution.java)]. 位运算：191-231-461；
-- [206. Reverse Linked List](./Algorithms/206.Reverse_Linked_List/note.md).[[Code](./Algorithms/206.Reverse_Linked_List/Solution.java)].
+- [206. Reverse Linked List](./Algorithms/206.Reverse_Linked_List/note.md).[[Code](./Algorithms/206.Reverse_Linked_List/Solution.java)].  206-剑指Offer 24；Review: 1;
 - [225. Implement Stack using Queues](./Algorithms/225.Implement_Stack_using_Queues/note.md).[[Code](./Algorithms/225.Implement_Stack_using_Queues/Solution.java)]. 225-232；
 - [226. Invert Binary Tree](./Algorithms/226.Invert_Binary_Tree/note.md).[[Code](./Algorithms/226.Invert_Binary_Tree/Solution.java)].
 - [231. Power of Two](./Algorithms/231.Power_of_Two/note.md).[[Code](./Algorithms/231.Power_of_Two/Solution.java)]. 位运算：191-231-461；
@@ -44,7 +44,7 @@
 - [263. Ugly Number](./Algorithms/263.Ugly_Number/note.md).[[Code](./Algorithms/263.Ugly_Number/Solution.java)].
 - [264. Ugly_Number_II](./Algorithms/264.Ugly_Number_II/note.md).[[Code](./Algorithms/264.Ugly_Number_II/Solution.java)].
 - [268. Missing Number](./Algorithms/268.Missing_Number/note.md).[[Code](./Algorithms/268.Missing_Number/Solution.java)].
-- [287. Find the Duplicate Number](./Algorithms/287.Find_the_Duplicate_Number/note.md).[[Code](./Algorithms/287.Find_the_Duplicate_Number/Solution.java)].
+- [287. Find the Duplicate Number](./Algorithms/287.Find_the_Duplicate_Number/note.md).[[Code](./Algorithms/287.Find_the_Duplicate_Number/Solution.java)]. 287-剑指Offer 23；Review: 1;
 - [343. Integer Break](./Algorithms/343.Integer_Break/note.md).[[Code](./Algorithms/343.Integer_Break/Solution.java)]. 343-剑指Offer 14；
 - [437. Path Sum III](./Algorithms/437.Path_Sum_III/note.md).[[Code](./Algorithms/437.Path_Sum_III/Solution.java)].
 - [448. Find All Numbers Disappeared in an Array](./Algorithms/448.Find_All_Numbers_Disappeared_in_an_Array/note.md).[[Code](./Algorithms/448.Find_All_Numbers_Disappeared_in_an_Array/Solution.java)].
@@ -72,6 +72,8 @@
 - [剑指Offer 20](./Algorithms/Offer20/note.md).[[Code](./Algorithms/Offer20/Solution.java)]. 65-剑指Offer 20；
 - [剑指Offer 21](./Algorithms/Offer21/note.md).[[Code](./Algorithms/Offer21/Solution.java)]. 
 - [剑指Offer 22](./Algorithms/Offer22/note.md).[[Code](./Algorithms/Offer22/Solution.java)]. 
+- [剑指Offer 23](./Algorithms/Offer23/note.md).[[Code](./Algorithms/Offer23/Solution.java)]. 287-剑指Offer 23；Review: 1;
+- [剑指Offer 24](./Algorithms/Offer24/note.md).[[Code](./Algorithms/Offer24/Solution.java)]. 206-剑指Offer 24；Review: 1;
 
 
 
