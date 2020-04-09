@@ -11,6 +11,7 @@
 
 - [1. Two Sum](./Algorithms/1.Two_Sum/note.md).[[Code](./Algorithms/1.Two_Sum/Solution.java)].
 - [9. Palindrome Number](./Algorithms/9.Palindrome_Number/note.md).[[Code](./Algorithms/9.Palindrome_Number/Solution.java)].
+- [21. Merge Two Sorted Lists](./Algorithms/21.Merge_Two_Sorted_Lists/note.md).[[Code](./Algorithms/21.Merge_Two_Sorted_Lists/Solution.java)]. 21-剑指Offer 25；==无需复习==
 - [33. Search in Rotated Sorted Array](./Algorithms/33.Search_in_Rotated_Sorted_Array/note.md).[[Code](./Algorithms/33.Search_in_Rotated_Sorted_Array/Solution.java)]. 33-81-153-154；
 - [41. First Missing Positive](./Algorithms/41.First_Missing_Positive/note.md).[[Code](./Algorithms/41.First_Missing_Positive/Solution.java)].
 - [50. Pow(x,n)](./Algorithms/50.Pow(x,n)/note.md).[[Code](./Algorithms/50.Pow(x,n)/Solution.java)]. 50-剑指Offer 16；
@@ -74,6 +75,7 @@
 - [剑指Offer 22](./Algorithms/Offer22/note.md).[[Code](./Algorithms/Offer22/Solution.java)]. 
 - [剑指Offer 23](./Algorithms/Offer23/note.md).[[Code](./Algorithms/Offer23/Solution.java)]. 287-剑指Offer 23；Review: 1;
 - [剑指Offer 24](./Algorithms/Offer24/note.md).[[Code](./Algorithms/Offer24/Solution.java)]. 206-剑指Offer 24；Review: 1;
+- [剑指Offer 25](./Algorithms/Offer25/note.md).[[Code](./Algorithms/Offer25/Solution.java)]. 21-剑指Offer 25；==无需复习==
 
 
 
