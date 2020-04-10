@@ -76,6 +76,7 @@
 - [剑指Offer 23](./Algorithms/Offer23/note.md).[[Code](./Algorithms/Offer23/Solution.java)]. 287-剑指Offer 23；Review: 1;
 - [剑指Offer 24](./Algorithms/Offer24/note.md).[[Code](./Algorithms/Offer24/Solution.java)]. 206-剑指Offer 24；Review: 1;
 - [剑指Offer 25](./Algorithms/Offer25/note.md).[[Code](./Algorithms/Offer25/Solution.java)]. 21-剑指Offer 25；==无需复习==
+- [剑指Offer 26](./Algorithms/Offer26/note.md).[[Code](./Algorithms/Offer26/Solution.java)]. 剑指Offer 26；==无需复习==
 
 
 
