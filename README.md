@@ -11,6 +11,7 @@
 
 - [1. Two Sum](./Algorithms/1.Two_Sum/note.md).[[Code](./Algorithms/1.Two_Sum/Solution.java)].
 - [9. Palindrome Number](./Algorithms/9.Palindrome_Number/note.md).[[Code](./Algorithms/9.Palindrome_Number/Solution.java)].
+- [10. Regular Expression Matching](./Algorithms/10.Regular_Expression_Matching/note.md).[[Code](./Algorithms/10.Regular_Expression_Matching/Solution.java)]. 10-剑指Offer 19；
 - [21. Merge Two Sorted Lists](./Algorithms/21.Merge_Two_Sorted_Lists/note.md).[[Code](./Algorithms/21.Merge_Two_Sorted_Lists/Solution.java)]. 21-剑指Offer 25；==无需复习==
 - [33. Search in Rotated Sorted Array](./Algorithms/33.Search_in_Rotated_Sorted_Array/note.md).[[Code](./Algorithms/33.Search_in_Rotated_Sorted_Array/Solution.java)]. 33-81-153-154；
 - [41. First Missing Positive](./Algorithms/41.First_Missing_Positive/note.md).[[Code](./Algorithms/41.First_Missing_Positive/Solution.java)].
@@ -22,7 +23,7 @@
 - [81. Search in Rotated Sorted Array II](./Algorithms/81.Search_in_Rotated_Sorted_Array_II/note.md).[[Code](./Algorithms/81.Search_in_Rotated_Sorted_Array_II/Solution.java)]. 33-81-153-154；
 - [94. Binary Tree Inorder Traversal](./Algorithms/94.Binary_Tree_Inorder_Traversal/note.md).[[Code](./Algorithms/94.Binary_Tree_Inorder_Traversal/Solution.java)].
 - [98. Validate Binary Search Tree](./Algorithms/98.Validate_Binary_Search_Tree/note.md).[[Code](./Algorithms/98.Validate_Binary_Search_Tree/Solution.java)].
-- [101. Symmetric Tree](./Algorithms/101.Symmetric_Tree/note.md).[[Code](./Algorithms/101.Symmetric_Tree/Solution.java)].
+- [101. Symmetric Tree](./Algorithms/101.Symmetric_Tree/note.md).[[Code](./Algorithms/101.Symmetric_Tree/Solution.java)]. ==无需复习==
 - [102. Binary Tree Level Order Traversal](./Algorithms/102.Binary_Tree_Level_Order_Traversal/note.md).[[Code](./Algorithms/102.Binary_Tree_Level_Order_Traversal/Solution.java)].
 - [104. Maximum Depth of Binary Tree](./Algorithms/104.Maximum_Depth_of_Binary_Tree/note.md).[[Code](./Algorithms/104.Maximum_Depth_of_Binary_Tree/Solution.java)].
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](./Algorithms/105.Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/note.md).[[Code](./Algorithms/105.Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/Solution.java)].
@@ -38,7 +39,7 @@
 - [191. Number of 1 Bits](./Algorithms/191.Number_of_1_Bits/note.md).[[Code](./Algorithms/191.Number_of_1_Bits/Solution.java)]. 位运算：191-231-461；
 - [206. Reverse Linked List](./Algorithms/206.Reverse_Linked_List/note.md).[[Code](./Algorithms/206.Reverse_Linked_List/Solution.java)].  206-剑指Offer 24；Review: 1;
 - [225. Implement Stack using Queues](./Algorithms/225.Implement_Stack_using_Queues/note.md).[[Code](./Algorithms/225.Implement_Stack_using_Queues/Solution.java)]. 225-232；
-- [226. Invert Binary Tree](./Algorithms/226.Invert_Binary_Tree/note.md).[[Code](./Algorithms/226.Invert_Binary_Tree/Solution.java)].
+- [226. Invert Binary Tree](./Algorithms/226.Invert_Binary_Tree/note.md).[[Code](./Algorithms/226.Invert_Binary_Tree/Solution.java)]. 226-剑指 Offer 27；==无需复习==
 - [231. Power of Two](./Algorithms/231.Power_of_Two/note.md).[[Code](./Algorithms/231.Power_of_Two/Solution.java)]. 位运算：191-231-461；
 - [232. Implement Queue using Stacks](./Algorithms/232.Implement_Queue_using_Stacks/note.md).[[Code](./Algorithms/232.Implement_Queue_using_Stacks/Solution.java)]. 225-232；
 - [240. Search a 2D Matrix II](./Algorithms/240.Search_a_2D_Matrix_II/note.md).[[Code](./Algorithms/240.Search_a_2D_Matrix_II/Solution.java)]. 74-240；
@@ -70,13 +71,16 @@
 - [剑指Offer 16](./Algorithms/Offer16/note.md).[[Code](./Algorithms/Offer16/Solution.java)]. 50-剑指Offer 16；
 - 剑指Offer 17. 在 LeetCode 中被弱化，此处不再赘述；
 - [剑指Offer 18](./Algorithms/Offer18/note.md).[[Code](./Algorithms/Offer18/Solution.java)].
+- [剑指Offer 19](./Algorithms/Offer19/note.md).[[Code](./Algorithms/Offer19/Solution.java)]. 10-剑指Offer 19；
 - [剑指Offer 20](./Algorithms/Offer20/note.md).[[Code](./Algorithms/Offer20/Solution.java)]. 65-剑指Offer 20；
 - [剑指Offer 21](./Algorithms/Offer21/note.md).[[Code](./Algorithms/Offer21/Solution.java)]. 
 - [剑指Offer 22](./Algorithms/Offer22/note.md).[[Code](./Algorithms/Offer22/Solution.java)]. 
 - [剑指Offer 23](./Algorithms/Offer23/note.md).[[Code](./Algorithms/Offer23/Solution.java)]. 287-剑指Offer 23；Review: 1;
 - [剑指Offer 24](./Algorithms/Offer24/note.md).[[Code](./Algorithms/Offer24/Solution.java)]. 206-剑指Offer 24；Review: 1;
 - [剑指Offer 25](./Algorithms/Offer25/note.md).[[Code](./Algorithms/Offer25/Solution.java)]. 21-剑指Offer 25；==无需复习==
-- [剑指Offer 26](./Algorithms/Offer26/note.md).[[Code](./Algorithms/Offer26/Solution.java)]. 剑指Offer 26；==无需复习==
+- [剑指Offer 26](./Algorithms/Offer26/note.md).[[Code](./Algorithms/Offer26/Solution.java)]. ==无需复习==
+- [剑指Offer 27](./Algorithms/Offer27/note.md).[[Code](./Algorithms/Offer27/Solution.java)]. 226-剑指 Offer 27；==无需复习==
+- [剑指Offer 28](./Algorithms/Offer28/note.md).[[Code](./Algorithms/Offer28/Solution.java)]. 101-剑指 Offer 28；==无需复习==
 
 
 
@@ -99,20 +103,15 @@
 
 # 5. Unsolved
 
-- 按标签筛选，练习已学到的知识点；
+- ==Dynamic Programming 专项训练==；
+  - LeetCode 10 & 剑指 Offer 19 中，DP 解法未学习；
 - 389;
 - 260;
-
-
-
 - 765H?-142M?-442M;
 - 313M超级丑数-560M;
   - 204E计算质数-279M完全平方数-23H合并k个排序链表；
 - 234E回文链表;
 - 202E快乐数-204E计算质数-794M有效的井字游戏-972H相等的有理数-800E相似RGB颜色-939M最小面积矩形；
-
-
-
 - 559EN叉树的最大深度-662M二叉树的最大宽度；
   - 173M二叉搜索树迭代器；
   - 987M二叉树的垂序遍历-99恢复二叉搜索树H；

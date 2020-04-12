@@ -42,12 +42,61 @@ class Solution {
 }
 ```
 
-# 3. Summary
+# 3. 迭代
+
+- 解题思路：同递归；
+
+```java
+// Approach 2: Iteration
+class Solution {
+    public boolean isSubStructure(TreeNode A, TreeNode B) {
+        if (A == null || B == null)
+            return false;
+        Queue<TreeNode> traverse = new LinkedList<>();
+        traverse.add(A);
+        while (!traverse.isEmpty()) {
+            TreeNode currA = traverse.poll();
+
+            Queue<TreeNode> queueA = new LinkedList<>();
+            Queue<TreeNode> queueB = new LinkedList<>();
+            queueA.add(currA);
+            queueB.add(B);
+            boolean flag = true;
+            while (!queueB.isEmpty()) {
+                TreeNode findA = queueA.poll();
+                TreeNode findB = queueB.poll();
+                if ((findA.val != findB.val) || (findA.left == null && findB.left != null) || (findA.right == null && findB.right != null)) {
+                    flag = false;
+                    break;
+                }
+                if (findA.left != null && findB.left != null) {
+                    queueA.add(findA.left);
+                    queueB.add(findB.left);
+                }
+                if (findA.right != null && findB.right != null) {
+                    queueA.add(findA.right);
+                    queueB.add(findB.right);
+                }
+            }
+            if (flag)
+                return flag;
+
+            if (currA.left != null)
+                traverse.add(currA.left);
+            if (currA.right != null)
+                traverse.add(currA.right);
+        }
+        return false;
+    }
+}
+```
+
+# 4. Summary
+
 - 无需复习；
-
-
 
 # References
 
 [^1]: https://leetcode-cn.com/u/hqpan/.
 [^2]: https://github.com/hqpan/LeetCode.
+

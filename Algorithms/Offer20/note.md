@@ -7,7 +7,7 @@
 - 本文采用 [署名-非商业性使用-禁止演绎 4.0 国际 (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh) 协议发布；
 
 
-# 1. LeetCode 65
+# 1. LeetCode 65 & 剑指 Offer 20
 - 考察内容：字符串模式匹配；
 - 相同问题：剑指 Offer 20；
 - 字符串模式匹配：
@@ -75,8 +75,7 @@ class Solution {
 
 ## 3.1 Java 语法
 
-- `&&`的优先级高于`||`；
-- 注意短路逻辑对运算结果的影响；
+- `&&`的优先级高于`||`，若两者并用，需考虑短路逻辑对运算结果的影响；
 
 
 
