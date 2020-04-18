@@ -16,6 +16,7 @@
 - [33. Search in Rotated Sorted Array](./Algorithms/33.Search_in_Rotated_Sorted_Array/note.md).[[Code](./Algorithms/33.Search_in_Rotated_Sorted_Array/Solution.java)]. 33-81-153-154；
 - [41. First Missing Positive](./Algorithms/41.First_Missing_Positive/note.md).[[Code](./Algorithms/41.First_Missing_Positive/Solution.java)].
 - [50. Pow(x,n)](./Algorithms/50.Pow(x,n)/note.md).[[Code](./Algorithms/50.Pow(x,n)/Solution.java)]. 50-剑指Offer 16；
+- [54. Spiral Matrix](./Algorithms/54.Spiral_Matrix/note.md).[[Code](./Algorithms/54.Spiral_Matrix/Solution.java)]. 54-剑指Offer 29；==无需复习==
 - [65. Valid Number](./Algorithms/65.Valid_Number/note.md).[[Code](./Algorithms/65.Valid_Number/Solution.java)]. 65-剑指Offer 20；
 - [70. Climbing Stairs](./Algorithms/70.Climbing_Stairs/note.md).[[Code](./Algorithms/70.Climbing_Stairs/Solution.java)]. 70-509-1137；
 - [74. Search a 2D Matrix](./Algorithms/74.Search_a_2D_Matrix/note.md).[[Code](./Algorithms/74.Search_a_2D_Matrix/Solution.java)]. 74-240；
@@ -35,7 +36,7 @@
 - [144. Binary Tree Preorder Traversal](./Algorithms/144.Binary_Tree_Preorder_Traversal/note.md).[[Code](./Algorithms/144.Binary_Tree_Preorder_Traversal/Solution.java)].==无需复习==
 - [153. Find Minimum in Rotated Sorted Array](./Algorithms/153.Find_Minimum_in_Rotated_Sorted_Array/note.md).[[Code](./Algorithms/153.Find_Minimum_in_Rotated_Sorted_Array/Solution.java)]. 33-81-153-154；
 - [154. Find Minimum in Rotated Sorted Array II](./Algorithms/154.Find_Minimum_in_Rotated_Sorted_Array_II/note.md).[[Code](./Algorithms/154.Find_Minimum_in_Rotated_Sorted_Array_II/Solution.java)]. 33-81-153-154；
-- [155. Min Stack](./Algorithms/155.Min_Stack/note.md).[[Code](./Algorithms/155.Min_Stack/Solution.java)].
+- [155. Min Stack](./Algorithms/155.Min_Stack/note.md).[[Code](./Algorithms/155.Min_Stack/Solution.java)]. 155-剑指 Offer 30；==无需复习==
 - [191. Number of 1 Bits](./Algorithms/191.Number_of_1_Bits/note.md).[[Code](./Algorithms/191.Number_of_1_Bits/Solution.java)]. 位运算：191-231-461；
 - [206. Reverse Linked List](./Algorithms/206.Reverse_Linked_List/note.md).[[Code](./Algorithms/206.Reverse_Linked_List/Solution.java)].  206-剑指Offer 24；Review: 1;
 - [225. Implement Stack using Queues](./Algorithms/225.Implement_Stack_using_Queues/note.md).[[Code](./Algorithms/225.Implement_Stack_using_Queues/Solution.java)]. 225-232；
@@ -81,6 +82,8 @@
 - [剑指Offer 26](./Algorithms/Offer26/note.md).[[Code](./Algorithms/Offer26/Solution.java)]. ==无需复习==
 - [剑指Offer 27](./Algorithms/Offer27/note.md).[[Code](./Algorithms/Offer27/Solution.java)]. 226-剑指 Offer 27；==无需复习==
 - [剑指Offer 28](./Algorithms/Offer28/note.md).[[Code](./Algorithms/Offer28/Solution.java)]. 101-剑指 Offer 28；==无需复习==
+- [剑指Offer 29](./Algorithms/Offer29/note.md).[[Code](./Algorithms/Offer29/Solution.java)]. 54-剑指Offer 29；==无需复习==
+- [剑指Offer 30](./Algorithms/Offer30/note.md).[[Code](./Algorithms/Offer30/Solution.java)]. 155-剑指 Offer 30；==无需复习==
 
 
 

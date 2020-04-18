@@ -31,7 +31,7 @@ substring(int beginIndex, int endIndex)
 
 
 
-# 4. Java 中常用的类
+# 4. 集合类
 
 - List：对于`List`可使用`get(index)`方法，按索引返回`List`的对应元素；
 
@@ -40,18 +40,49 @@ List<List<Integer>> list = new ArrayList<List<>>();
 ```
 
 - Queue:
+  - add；
+  - poll；
+  - peek；
+  - remove；
+  - isEmpty；
+  - `Iterator<E> iterator()`；
 
 ```java
+import java.util.Queue;
+import java.util.LinkedList;
 Queue<Integer> queue = new LinkedList<>();
 ```
 
+- Stack：`java.util.Stack`；
+  - push；
+  - pop；
+  - peek；
+  - remove；
+  - isEmpty；
+  - `Iterator<E> iterator()`；
 - Arrays：`java.util.Arrays`；
 
 ```java
 public static void sort(E[] arr);
 ```
 
-
+- ArrayList：`java.util.ArrayList`；
+  - add；
+  - `public boolean contains(Object o)`；
+  - `public E get(int index)`；
+  - `public int indexOf(Object o)`；
+  - isEmpty；
+  - `Iterator<E> iterator()`；
+  - remove；
+  - `public Object[] toArray()`；
+  - size；
+- HashMap：`java.util.HashMap;`;
+  - `public boolean containsKey(Object key)`；
+  - `public boolean containsValue(Object value)`；
+  - isEmpty；
+  - `public V put(K key, V value)`；
+  - `public V remove(Object key)`；
+  - size；
 
 
 
