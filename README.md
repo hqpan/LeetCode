@@ -5,8 +5,6 @@
 - Solution of LeetCode，欢迎 fork & star;
 - 鄙人水平有限，如有疏漏，还望诸位同行不吝赐教；
 
-
-
 # 2. Algorithm
 
 - [1. Two Sum](./Algorithms/1.Two_Sum/note.md).[[Code](./Algorithms/1.Two_Sum/Solution.java)].
@@ -34,6 +32,9 @@
 - [136. Single Number](./Algorithms/136.Single_Number/note.md).[[Code](./Algorithms/136.Single_Number/Solution.java)].
 - [137. Single Number II](./Algorithms/137.Single_Number_II/note.md).[[Code](./Algorithms/137.Single_Number_II/Solution.java)].
 - [144. Binary Tree Preorder Traversal](./Algorithms/144.Binary_Tree_Preorder_Traversal/note.md).[[Code](./Algorithms/144.Binary_Tree_Preorder_Traversal/Solution.java)].==无需复习==
+- [145. Binary Tree Postorder Traversal](./Algorithms/145.Binary_Tree_Postorder_Traversal/note.md).[[Code](./Algorithms/145.Binary_Tree_Postorder_Traversal/Solution.java)]. 145-590；
+- [147. Insertion Sort List](./Algorithms/147.Insertion_Sort_List/note.md).[[Code](./Algorithms/147.Insertion_Sort_List/Solution.java)]. 147-148；
+- [148. Sort List](./Algorithms/148.Sort_List/note.md).[[Code](./Algorithms/148.Sort_List/Solution.java)]. 147-148；
 - [153. Find Minimum in Rotated Sorted Array](./Algorithms/153.Find_Minimum_in_Rotated_Sorted_Array/note.md).[[Code](./Algorithms/153.Find_Minimum_in_Rotated_Sorted_Array/Solution.java)]. 33-81-153-154；
 - [154. Find Minimum in Rotated Sorted Array II](./Algorithms/154.Find_Minimum_in_Rotated_Sorted_Array_II/note.md).[[Code](./Algorithms/154.Find_Minimum_in_Rotated_Sorted_Array_II/Solution.java)]. 33-81-153-154；
 - [155. Min Stack](./Algorithms/155.Min_Stack/note.md).[[Code](./Algorithms/155.Min_Stack/Solution.java)]. 155-剑指 Offer 30；==无需复习==
@@ -57,14 +58,14 @@
 - [538. Convert BST to Greater Tree](./Algorithms/538.Convert_BST_to_Greater_Tree/note.md).[[Code](./Algorithms/538.Convert_BST_to_Greater_Tree/Solution.java)].
 - [543. Diameter of Binary Tree](./Algorithms/543.Diameter_of_Binary_Tree/note.md).[[Code](./Algorithms/543.Diameter_of_Binary_Tree/Solution.java)].
 - [589. N-ary Tree Preorder Traversal](./Algorithms/589.N-ary_Tree_Preorder_Traversal/note.md).[[Code](./Algorithms/589.N-ary_Tree_Preorder_Traversal/Solution.java)].
+- [590. N-ary Tree Postorder Traversal](./Algorithms/590.N-ary_Tree_Postorder_Traversal/note.md).[[Code](./Algorithms/590.N-ary_Tree_Postorder_Traversal/Solution.java)]. 145-590；
 - [617. Merge Two Binary Trees](./Algorithms/617.Merge_Two_Binary_Trees/note.md).[[Code](./Algorithms/617.Merge_Two_Binary_Trees/Solution.java)].
 - [645. Set Mismatch](./Algorithms/645.Set_Mismatch/note.md).[[Code](./Algorithms/645.Set_Mismatch/Solution.java)].
 - [889. Construct Binary Tree from Preorder and Postorder Traversal](./Algorithms/889.Construct_Binary_Tree_from_Preorder_and_Postorder_Traversal/note.md).[[Code](./Algorithms/889.Construct_Binary_Tree_from_Preorder_and_Postorder_Traversal/Solution.java)].
+- [946. Validate Stack Sequences](./Algorithms/946.Validate_Stack_Sequences/note.md).[[Code](./Algorithms/946.Validate_Stack_Sequences/Solution.java)]. 946-剑指 Offer 31；
 - [1137. N-th Tribonacci Number](./Algorithms/1137.N-th_Tribonacci_Number/note.md).[[Code](./Algorithms/1137.N-th_Tribonacci_Number/Solution.java)]. 70-509-1137；
 - [1184. Distance Between Bus Stops](./Algorithms/1184.Distance_Between_Bus_Stops/note.md).[[Code](./Algorithms/1184.Distance_Between_Bus_Stops/Solution.java)].
 - [Weekly Contest Notes](./Algorithms/Weekly_Contest/note.md).
-
-
 
 # 3. 剑指 Offer
 
@@ -83,9 +84,9 @@
 - [剑指Offer 27](./Algorithms/Offer27/note.md).[[Code](./Algorithms/Offer27/Solution.java)]. 226-剑指 Offer 27；==无需复习==
 - [剑指Offer 28](./Algorithms/Offer28/note.md).[[Code](./Algorithms/Offer28/Solution.java)]. 101-剑指 Offer 28；==无需复习==
 - [剑指Offer 29](./Algorithms/Offer29/note.md).[[Code](./Algorithms/Offer29/Solution.java)]. 54-剑指Offer 29；==无需复习==
-- [剑指Offer 30](./Algorithms/Offer30/note.md).[[Code](./Algorithms/Offer30/Solution.java)]. 155-剑指 Offer 30；==无需复习==
-
-
+- [剑指Offer 30](./Algorithms/Offer30/note.md).[[Code](./Algorithms/Offer30/Solution.java)]. 155-剑指 Offer 30；==无需复习
+- [剑指Offer 31](./Algorithms/Offer31/note.md).[[Code](./Algorithms/Offer31/Solution.java)]. 946-剑指 Offer 31；
+- [剑指Offer 33](./Algorithms/Offer33/note.md).[[Code](./Algorithms/Offer33/Solution.java)]. 
 
 # 4. Database
 
@@ -101,8 +102,6 @@
 - [596. Classes More Than 5 Students](./Algorithms/596.Classes_More_Than_5_Students/note.md).[[Code](./Algorithms/596.Classes_More_Than_5_Students/Solution.sql)].==无需复习==
 - [620. Not Boring Movies](./Algorithms/620.Not_Boring_Movies/note.md).[[Code](./Algorithms/620.Not_Boring_Movies/Solution.sql)].==无需复习==
 - [627. Swap Salary](./Algorithms/627.Swap_Salary/note.md).[[Code](./Algorithms/627.Swap_Salary/Solution.sql)].==无需复习==
-
-
 
 # 5. Unsolved
 
