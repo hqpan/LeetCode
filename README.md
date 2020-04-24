@@ -7,15 +7,16 @@
 
 # 2. Algorithm
 
-- [1. Two Sum](./Algorithms/1.Two_Sum/note.md).[[Code](./Algorithms/1.Two_Sum/Solution.java)].
+- [1. Two Sum](./Algorithms/1.Two_Sum/note.md).[[Code](./Algorithms/1.Two_Sum/Solution.java)]. 1-15；
 - [9. Palindrome Number](./Algorithms/9.Palindrome_Number/note.md).[[Code](./Algorithms/9.Palindrome_Number/Solution.java)].
-- [10. Regular Expression Matching](./Algorithms/10.Regular_Expression_Matching/note.md).[[Code](./Algorithms/10.Regular_Expression_Matching/Solution.java)]. 10-剑指Offer 19；
-- [21. Merge Two Sorted Lists](./Algorithms/21.Merge_Two_Sorted_Lists/note.md).[[Code](./Algorithms/21.Merge_Two_Sorted_Lists/Solution.java)]. 21-剑指Offer 25；==无需复习==
+- [10. Regular Expression Matching](./Algorithms/10.Regular_Expression_Matching/note.md).[[Code](./Algorithms/10.Regular_Expression_Matching/Solution.java)]. 10-剑指 Offer 19；
+- [15. 3Sum](./Algorithms/15.3Sum/note.md).[[Code](./Algorithms/15.3Sum/Solution.java)]. 1-15；
+- [21. Merge Two Sorted Lists](./Algorithms/21.Merge_Two_Sorted_Lists/note.md).[[Code](./Algorithms/21.Merge_Two_Sorted_Lists/Solution.java)]. 21-剑指 Offer 25；==无需复习==
 - [33. Search in Rotated Sorted Array](./Algorithms/33.Search_in_Rotated_Sorted_Array/note.md).[[Code](./Algorithms/33.Search_in_Rotated_Sorted_Array/Solution.java)]. 33-81-153-154；
 - [41. First Missing Positive](./Algorithms/41.First_Missing_Positive/note.md).[[Code](./Algorithms/41.First_Missing_Positive/Solution.java)].
-- [50. Pow(x,n)](./Algorithms/50.Pow(x,n)/note.md).[[Code](./Algorithms/50.Pow(x,n)/Solution.java)]. 50-剑指Offer 16；
-- [54. Spiral Matrix](./Algorithms/54.Spiral_Matrix/note.md).[[Code](./Algorithms/54.Spiral_Matrix/Solution.java)]. 54-剑指Offer 29；==无需复习==
-- [65. Valid Number](./Algorithms/65.Valid_Number/note.md).[[Code](./Algorithms/65.Valid_Number/Solution.java)]. 65-剑指Offer 20；
+- [50. Pow(x,n)](./Algorithms/50.Pow(x,n)/note.md).[[Code](./Algorithms/50.Pow(x,n)/Solution.java)]. 50-剑指 Offer 16；
+- [54. Spiral Matrix](./Algorithms/54.Spiral_Matrix/note.md).[[Code](./Algorithms/54.Spiral_Matrix/Solution.java)]. 54-剑指 Offer 29；==无需复习==
+- [65. Valid Number](./Algorithms/65.Valid_Number/note.md).[[Code](./Algorithms/65.Valid_Number/Solution.java)]. 65-剑指 Offer 20；
 - [70. Climbing Stairs](./Algorithms/70.Climbing_Stairs/note.md).[[Code](./Algorithms/70.Climbing_Stairs/Solution.java)]. 70-509-1137；
 - [74. Search a 2D Matrix](./Algorithms/74.Search_a_2D_Matrix/note.md).[[Code](./Algorithms/74.Search_a_2D_Matrix/Solution.java)]. 74-240；
 - [79. Word Search](./Algorithms/79.Word_Search/note.md).[[Code](./Algorithms/79.Word_Search/Solution.java)]. 回溯；
@@ -39,7 +40,7 @@
 - [154. Find Minimum in Rotated Sorted Array II](./Algorithms/154.Find_Minimum_in_Rotated_Sorted_Array_II/note.md).[[Code](./Algorithms/154.Find_Minimum_in_Rotated_Sorted_Array_II/Solution.java)]. 33-81-153-154；
 - [155. Min Stack](./Algorithms/155.Min_Stack/note.md).[[Code](./Algorithms/155.Min_Stack/Solution.java)]. 155-剑指 Offer 30；==无需复习==
 - [191. Number of 1 Bits](./Algorithms/191.Number_of_1_Bits/note.md).[[Code](./Algorithms/191.Number_of_1_Bits/Solution.java)]. 位运算：191-231-461；
-- [206. Reverse Linked List](./Algorithms/206.Reverse_Linked_List/note.md).[[Code](./Algorithms/206.Reverse_Linked_List/Solution.java)].  206-剑指Offer 24；Review: 1;
+- [206. Reverse Linked List](./Algorithms/206.Reverse_Linked_List/note.md).[[Code](./Algorithms/206.Reverse_Linked_List/Solution.java)].  206-剑指 Offer 24；Review: 1;
 - [225. Implement Stack using Queues](./Algorithms/225.Implement_Stack_using_Queues/note.md).[[Code](./Algorithms/225.Implement_Stack_using_Queues/Solution.java)]. 225-232；
 - [226. Invert Binary Tree](./Algorithms/226.Invert_Binary_Tree/note.md).[[Code](./Algorithms/226.Invert_Binary_Tree/Solution.java)]. 226-剑指 Offer 27；==无需复习==
 - [231. Power of Two](./Algorithms/231.Power_of_Two/note.md).[[Code](./Algorithms/231.Power_of_Two/Solution.java)]. 位运算：191-231-461；
@@ -48,8 +49,8 @@
 - [263. Ugly Number](./Algorithms/263.Ugly_Number/note.md).[[Code](./Algorithms/263.Ugly_Number/Solution.java)].
 - [264. Ugly_Number_II](./Algorithms/264.Ugly_Number_II/note.md).[[Code](./Algorithms/264.Ugly_Number_II/Solution.java)].
 - [268. Missing Number](./Algorithms/268.Missing_Number/note.md).[[Code](./Algorithms/268.Missing_Number/Solution.java)].
-- [287. Find the Duplicate Number](./Algorithms/287.Find_the_Duplicate_Number/note.md).[[Code](./Algorithms/287.Find_the_Duplicate_Number/Solution.java)]. 287-剑指Offer 23；Review: 1;
-- [343. Integer Break](./Algorithms/343.Integer_Break/note.md).[[Code](./Algorithms/343.Integer_Break/Solution.java)]. 343-剑指Offer 14；
+- [287. Find the Duplicate Number](./Algorithms/287.Find_the_Duplicate_Number/note.md).[[Code](./Algorithms/287.Find_the_Duplicate_Number/Solution.java)]. 287-剑指 Offer 23；Review: 1;
+- [343. Integer Break](./Algorithms/343.Integer_Break/note.md).[[Code](./Algorithms/343.Integer_Break/Solution.java)]. 343-剑指 Offer 14；
 - [437. Path Sum III](./Algorithms/437.Path_Sum_III/note.md).[[Code](./Algorithms/437.Path_Sum_III/Solution.java)].
 - [448. Find All Numbers Disappeared in an Array](./Algorithms/448.Find_All_Numbers_Disappeared_in_an_Array/note.md).[[Code](./Algorithms/448.Find_All_Numbers_Disappeared_in_an_Array/Solution.java)].
 - [461. Hamming Distance](./Algorithms/461.Hamming_Distance/note.md).[[Code](./Algorithms/461.Hamming_Distance/Solution.java)]. 位运算：191-231-461；
@@ -69,23 +70,24 @@
 
 # 3. 剑指 Offer
 
-- [剑指Offer 14-I & 14-II](./Algorithms/Offer14/note.md).[[Code](./Algorithms/Offer14/Solution.java)]. 343-剑指Offer 14；
-- [剑指Offer 16](./Algorithms/Offer16/note.md).[[Code](./Algorithms/Offer16/Solution.java)]. 50-剑指Offer 16；
+- [剑指Offer 14-I & 14-II](./Algorithms/Offer14/note.md).[[Code](./Algorithms/Offer14/Solution.java)]. 343-剑指 Offer 14；
+- [剑指Offer 16](./Algorithms/Offer16/note.md).[[Code](./Algorithms/Offer16/Solution.java)]. 50-剑指 Offer 16；
 - 剑指Offer 17. 在 LeetCode 中被弱化，此处不再赘述；
 - [剑指Offer 18](./Algorithms/Offer18/note.md).[[Code](./Algorithms/Offer18/Solution.java)].
-- [剑指Offer 19](./Algorithms/Offer19/note.md).[[Code](./Algorithms/Offer19/Solution.java)]. 10-剑指Offer 19；
-- [剑指Offer 20](./Algorithms/Offer20/note.md).[[Code](./Algorithms/Offer20/Solution.java)]. 65-剑指Offer 20；
+- [剑指Offer 19](./Algorithms/Offer19/note.md).[[Code](./Algorithms/Offer19/Solution.java)]. 10-剑指 Offer 19；
+- [剑指Offer 20](./Algorithms/Offer20/note.md).[[Code](./Algorithms/Offer20/Solution.java)]. 65-剑指 Offer 20；
 - [剑指Offer 21](./Algorithms/Offer21/note.md).[[Code](./Algorithms/Offer21/Solution.java)]. 
 - [剑指Offer 22](./Algorithms/Offer22/note.md).[[Code](./Algorithms/Offer22/Solution.java)]. 
-- [剑指Offer 23](./Algorithms/Offer23/note.md).[[Code](./Algorithms/Offer23/Solution.java)]. 287-剑指Offer 23；Review: 1;
-- [剑指Offer 24](./Algorithms/Offer24/note.md).[[Code](./Algorithms/Offer24/Solution.java)]. 206-剑指Offer 24；Review: 1;
-- [剑指Offer 25](./Algorithms/Offer25/note.md).[[Code](./Algorithms/Offer25/Solution.java)]. 21-剑指Offer 25；==无需复习==
+- [剑指Offer 23](./Algorithms/Offer23/note.md).[[Code](./Algorithms/Offer23/Solution.java)]. 287-剑指 Offer 23；Review: 1;
+- [剑指Offer 24](./Algorithms/Offer24/note.md).[[Code](./Algorithms/Offer24/Solution.java)]. 206-剑指 Offer 24；Review: 1;
+- [剑指Offer 25](./Algorithms/Offer25/note.md).[[Code](./Algorithms/Offer25/Solution.java)]. 21-剑指 Offer 25；==无需复习==
 - [剑指Offer 26](./Algorithms/Offer26/note.md).[[Code](./Algorithms/Offer26/Solution.java)]. ==无需复习==
 - [剑指Offer 27](./Algorithms/Offer27/note.md).[[Code](./Algorithms/Offer27/Solution.java)]. 226-剑指 Offer 27；==无需复习==
 - [剑指Offer 28](./Algorithms/Offer28/note.md).[[Code](./Algorithms/Offer28/Solution.java)]. 101-剑指 Offer 28；==无需复习==
-- [剑指Offer 29](./Algorithms/Offer29/note.md).[[Code](./Algorithms/Offer29/Solution.java)]. 54-剑指Offer 29；==无需复习==
+- [剑指Offer 29](./Algorithms/Offer29/note.md).[[Code](./Algorithms/Offer29/Solution.java)]. 54-剑指 Offer 29；==无需复习==
 - [剑指Offer 30](./Algorithms/Offer30/note.md).[[Code](./Algorithms/Offer30/Solution.java)]. 155-剑指 Offer 30；==无需复习
 - [剑指Offer 31](./Algorithms/Offer31/note.md).[[Code](./Algorithms/Offer31/Solution.java)]. 946-剑指 Offer 31；
+- [剑指Offer 32-I & 32-II & 32-III](./Algorithms/Offer32/note.md).[[Code](./Algorithms/Offer32/Solution.java)]. 102-剑指 Offer 32；
 - [剑指Offer 33](./Algorithms/Offer33/note.md).[[Code](./Algorithms/Offer33/Solution.java)]. 
 
 # 4. Database
