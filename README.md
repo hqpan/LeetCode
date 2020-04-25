@@ -29,10 +29,11 @@
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](./Algorithms/105.Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/note.md).[[Code](./Algorithms/105.Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/Solution.java)].
 - [106. Construct Binary Tree from Inorder and Postorder Traversal](./Algorithms/106.Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal/note.md).[[Code](./Algorithms/106.Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal/Solution.java)].
 - [111. Minimum Depth of Binary Tree](./Algorithms/111.Minimum_Depth_of_Binary_Tree/note.md).[[Code](./Algorithms/111.Minimum_Depth_of_Binary_Tree/Solution.java)].
-- [112. Path Sum](./Algorithms/112.Path_Sum/note.md).[[Code](./Algorithms/112.Path_Sum/Solution.java)].
+- [112. Path Sum](./Algorithms/112.Path_Sum/note.md).[[Code](./Algorithms/112.Path_Sum/Solution.java)]. 112-113-剑指 Offer 34-437；
+- [113. Path Sum II](./Algorithms/113.Path_Sum_II/note.md).[[Code](./Algorithms/113.Path_Sum_II/Solution.java)]. 112-113-剑指 Offer 34-437；
 - [136. Single Number](./Algorithms/136.Single_Number/note.md).[[Code](./Algorithms/136.Single_Number/Solution.java)].
 - [137. Single Number II](./Algorithms/137.Single_Number_II/note.md).[[Code](./Algorithms/137.Single_Number_II/Solution.java)].
-- [144. Binary Tree Preorder Traversal](./Algorithms/144.Binary_Tree_Preorder_Traversal/note.md).[[Code](./Algorithms/144.Binary_Tree_Preorder_Traversal/Solution.java)].==无需复习==
+- [144. Binary Tree Preorder Traversal](./Algorithms/144.Binary_Tree_Preorder_Traversal/note.md).[[Code](./Algorithms/144.Binary_Tree_Preorder_Traversal/Solution.java)]. ==无需复习==
 - [145. Binary Tree Postorder Traversal](./Algorithms/145.Binary_Tree_Postorder_Traversal/note.md).[[Code](./Algorithms/145.Binary_Tree_Postorder_Traversal/Solution.java)]. 145-590；
 - [147. Insertion Sort List](./Algorithms/147.Insertion_Sort_List/note.md).[[Code](./Algorithms/147.Insertion_Sort_List/Solution.java)]. 147-148；
 - [148. Sort List](./Algorithms/148.Sort_List/note.md).[[Code](./Algorithms/148.Sort_List/Solution.java)]. 147-148；
@@ -51,7 +52,7 @@
 - [268. Missing Number](./Algorithms/268.Missing_Number/note.md).[[Code](./Algorithms/268.Missing_Number/Solution.java)].
 - [287. Find the Duplicate Number](./Algorithms/287.Find_the_Duplicate_Number/note.md).[[Code](./Algorithms/287.Find_the_Duplicate_Number/Solution.java)]. 287-剑指 Offer 23；Review: 1;
 - [343. Integer Break](./Algorithms/343.Integer_Break/note.md).[[Code](./Algorithms/343.Integer_Break/Solution.java)]. 343-剑指 Offer 14；
-- [437. Path Sum III](./Algorithms/437.Path_Sum_III/note.md).[[Code](./Algorithms/437.Path_Sum_III/Solution.java)].
+- [437. Path Sum III](./Algorithms/437.Path_Sum_III/note.md).[[Code](./Algorithms/437.Path_Sum_III/Solution.java)]. 112-113-剑指 Offer 34-437；
 - [448. Find All Numbers Disappeared in an Array](./Algorithms/448.Find_All_Numbers_Disappeared_in_an_Array/note.md).[[Code](./Algorithms/448.Find_All_Numbers_Disappeared_in_an_Array/Solution.java)].
 - [461. Hamming Distance](./Algorithms/461.Hamming_Distance/note.md).[[Code](./Algorithms/461.Hamming_Distance/Solution.java)]. 位运算：191-231-461；
 - [507. Perfect Number](./Algorithms/507.Perfect_Number/note.md).[[Code](./Algorithms/507.Perfect_Number/Solution.java)].
@@ -89,6 +90,7 @@
 - [剑指Offer 31](./Algorithms/Offer31/note.md).[[Code](./Algorithms/Offer31/Solution.java)]. 946-剑指 Offer 31；
 - [剑指Offer 32-I & 32-II & 32-III](./Algorithms/Offer32/note.md).[[Code](./Algorithms/Offer32/Solution.java)]. 102-剑指 Offer 32；
 - [剑指Offer 33](./Algorithms/Offer33/note.md).[[Code](./Algorithms/Offer33/Solution.java)]. 
+- [剑指Offer 34](./Algorithms/Offer34/note.md).[[Code](./Algorithms/Offer33/Solution.java)]. 112-113-剑指 Offer 34-437；
 
 # 4. Database
 
