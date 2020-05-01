@@ -33,6 +33,7 @@
 - [113. Path Sum II](./Algorithms/113.Path_Sum_II/note.md).[[Code](./Algorithms/113.Path_Sum_II/Solution.java)]. 112-113-剑指 Offer 34-437；
 - [136. Single Number](./Algorithms/136.Single_Number/note.md).[[Code](./Algorithms/136.Single_Number/Solution.java)].
 - [137. Single Number II](./Algorithms/137.Single_Number_II/note.md).[[Code](./Algorithms/137.Single_Number_II/Solution.java)].
+- [138. Copy List with Random Pointer](./Algorithms/138.Copy_List_with_Random_Pointer/note.md).[[Code](./Algorithms/138.Copy_List_with_Random_Pointer/Solution.java)]. 138-剑指 Offer 35；
 - [144. Binary Tree Preorder Traversal](./Algorithms/144.Binary_Tree_Preorder_Traversal/note.md).[[Code](./Algorithms/144.Binary_Tree_Preorder_Traversal/Solution.java)]. ==无需复习==
 - [145. Binary Tree Postorder Traversal](./Algorithms/145.Binary_Tree_Postorder_Traversal/note.md).[[Code](./Algorithms/145.Binary_Tree_Postorder_Traversal/Solution.java)]. 145-590；
 - [147. Insertion Sort List](./Algorithms/147.Insertion_Sort_List/note.md).[[Code](./Algorithms/147.Insertion_Sort_List/Solution.java)]. 147-148；
@@ -91,6 +92,7 @@
 - [剑指Offer 32-I & 32-II & 32-III](./Algorithms/Offer32/note.md).[[Code](./Algorithms/Offer32/Solution.java)]. 102-剑指 Offer 32；
 - [剑指Offer 33](./Algorithms/Offer33/note.md).[[Code](./Algorithms/Offer33/Solution.java)]. 
 - [剑指Offer 34](./Algorithms/Offer34/note.md).[[Code](./Algorithms/Offer33/Solution.java)]. 112-113-剑指 Offer 34-437；
+- [剑指Offer 35](./Algorithms/Offer35/note.md).[[Code](./Algorithms/Offer35/Solution.java)].  138-剑指 Offer 35；
 
 # 4. Database
 

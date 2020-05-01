@@ -81,6 +81,8 @@ public static void sort(E[] arr);
   - `public boolean containsValue(Object value)`；
   - isEmpty；
   - `public V put(K key, V value)`；
+  - `public V get(Object key)`；
+  - `public Collection<V> values()`；
   - `public V remove(Object key)`；
   - size；
 
