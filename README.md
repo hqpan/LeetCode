@@ -93,6 +93,7 @@
 - [剑指Offer 33](./Algorithms/Offer33/note.md).[[Code](./Algorithms/Offer33/Solution.java)]. 
 - [剑指Offer 34](./Algorithms/Offer34/note.md).[[Code](./Algorithms/Offer33/Solution.java)]. 112-113-剑指 Offer 34-437；
 - [剑指Offer 35](./Algorithms/Offer35/note.md).[[Code](./Algorithms/Offer35/Solution.java)].  138-剑指 Offer 35；
+- [剑指Offer 36](./Algorithms/Offer36/note.md).[[Code](./Algorithms/Offer36/Solution.java)].
 
 # 4. Database
 
