@@ -28,17 +28,20 @@ substring(int beginIndex, int endIndex)
 - `public String trim()`：去除字符串首尾空格；
 - `public String replaceAll(String regex, String replacement)`：替换字符串中的部分字符；
   - `str.replaceAll(" ", ",");`：将字符串中所有空格替换为逗号；
-
-
+- `java.lang.StringBuilder`：
+  - `public StringBuilder append(E b)`；
+  - `public StringBuilder reverse()`；
+  - `public String toString()`；
+- 字符串长度、数组长度：
+  - 字符串长度：`length()`函数；
+  - 数组长度：`length`属性；
 
 # 4. 集合类
 
-- List：对于`List`可使用`get(index)`方法，按索引返回`List`的对应元素；
-
-```java
-List<List<Integer>> list = new ArrayList<List<>>();
-```
-
+- List：`List<List<Integer>> list = new ArrayList<List<>>()`；
+  - `E get(int index)`；
+  - `E remove(int index)`；
+  - `Object[] toArray()`；
 - Queue:
   - add；
   - poll；
@@ -61,10 +64,9 @@ Queue<Integer> queue = new LinkedList<>();
   - isEmpty；
   - `Iterator<E> iterator()`；
 - Arrays：`java.util.Arrays`；
-
-```java
-public static void sort(E[] arr);
-```
+  - `public LinkedList(Collection<? extends E> c)`：将实现`Collection`接口的集合中所有元素，用于创建`LinkedList`；
+  - `public static void sort(E[] arr)`；
+  - `public static String toString(E[] a)`；
 
 - ArrayList：`java.util.ArrayList`；
   - add；
