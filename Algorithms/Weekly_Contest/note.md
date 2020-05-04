@@ -4,7 +4,7 @@
 
 # 1. Background
 
-- 
+- ；
 
 
 
@@ -19,15 +19,13 @@
 
 # 3. 字符串处理
 
-- `substring()`：从某个字符串中取子字符串；
-
-```java
-substring(int beginIndex, int endIndex)
-```
-
-- `public String trim()`：去除字符串首尾空格；
-- `public String replaceAll(String regex, String replacement)`：替换字符串中的部分字符；
-  - `str.replaceAll(" ", ",");`：将字符串中所有空格替换为逗号；
+- `java.lang.String`：
+  - `substring(int beginIndex, int endIndex)`：从某个字符串中取子字符串；
+  - `public char[] toCharArray()`：将字符串转换为字符数组；
+  - `public String trim()`：去除字符串首尾空格；
+  - `public String replaceAll(String regex, String replacement)`：替换字符串中的部分字符；
+    - `str.replaceAll(" ", ",");`：将字符串中所有空格替换为逗号；
+  - `public static String valueOf(char[] data)`：将字符数组转换为字符串；
 - `java.lang.StringBuilder`：
   - `public StringBuilder append(E b)`；
   - `public StringBuilder reverse()`；
@@ -42,6 +40,8 @@ substring(int beginIndex, int endIndex)
   - `E get(int index)`；
   - `E remove(int index)`；
   - `Object[] toArray()`；
+  - `<T> T[] toArray(T[] a)`：将`List`中的元素，作为特定类型的数组返回；
+    - E.g. `list.toArray(new String[list.size()])`；
 - Queue:
   - add；
   - poll；
@@ -67,7 +67,6 @@ Queue<Integer> queue = new LinkedList<>();
   - `public LinkedList(Collection<? extends E> c)`：将实现`Collection`接口的集合中所有元素，用于创建`LinkedList`；
   - `public static void sort(E[] arr)`；
   - `public static String toString(E[] a)`；
-
 - ArrayList：`java.util.ArrayList`；
   - add；
   - `public boolean contains(Object o)`；
@@ -87,8 +86,12 @@ Queue<Integer> queue = new LinkedList<>();
   - `public Collection<V> values()`；
   - `public V remove(Object key)`；
   - size；
-
-
+- HashSet：`java.util.HashSet`，集合中的元素无序、不重复；
+  - `public boolean add(E e)`；
+  - `public boolean remove(Object o)`；
+  - `public boolean contains(Object o)`；
+  - `public boolean isEmpty()`；
+  - `public int size()`；
 
 # 5. 返回值
 

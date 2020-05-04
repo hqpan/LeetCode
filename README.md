@@ -96,6 +96,7 @@
 - [剑指Offer 35](./Algorithms/Offer35/note.md).[[Code](./Algorithms/Offer35/Solution.java)].  138-剑指 Offer 35；
 - [剑指Offer 36](./Algorithms/Offer36/note.md).[[Code](./Algorithms/Offer36/Solution.java)].
 - [剑指Offer 37](./Algorithms/Offer37/note.md).[[Code](./Algorithms/Offer37/Solution.java)]. 297-剑指 Offer 37；
+- [剑指Offer 38](./Algorithms/Offer38/note.md).[[Code](./Algorithms/Offer38/Solution.java)].
 
 # 4. Database
 
@@ -126,4 +127,4 @@
 - 559EN叉树的最大深度-662M二叉树的最大宽度；
   - 173M二叉搜索树迭代器；
   - 987M二叉树的垂序遍历-99恢复二叉搜索树H；
-  - 110E平衡二叉树；
+  - 110E平衡二叉树；ff
