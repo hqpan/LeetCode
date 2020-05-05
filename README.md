@@ -41,6 +41,7 @@
 - [153. Find Minimum in Rotated Sorted Array](./Algorithms/153.Find_Minimum_in_Rotated_Sorted_Array/note.md).[[Code](./Algorithms/153.Find_Minimum_in_Rotated_Sorted_Array/Solution.java)]. 33-81-153-154；
 - [154. Find Minimum in Rotated Sorted Array II](./Algorithms/154.Find_Minimum_in_Rotated_Sorted_Array_II/note.md).[[Code](./Algorithms/154.Find_Minimum_in_Rotated_Sorted_Array_II/Solution.java)]. 33-81-153-154；
 - [155. Min Stack](./Algorithms/155.Min_Stack/note.md).[[Code](./Algorithms/155.Min_Stack/Solution.java)]. 155-剑指 Offer 30；==无需复习==
+- [169. Majority Element](./Algorithms/169.Majority_Element/note.md).[[Code](./Algorithms/169.Majority_Element/Solution.java)]. 169-剑指 Offer 39；
 - [191. Number of 1 Bits](./Algorithms/191.Number_of_1_Bits/note.md).[[Code](./Algorithms/191.Number_of_1_Bits/Solution.java)]. 位运算：191-231-461；
 - [206. Reverse Linked List](./Algorithms/206.Reverse_Linked_List/note.md).[[Code](./Algorithms/206.Reverse_Linked_List/Solution.java)].  206-剑指 Offer 24；Review: 1;
 - [225. Implement Stack using Queues](./Algorithms/225.Implement_Stack_using_Queues/note.md).[[Code](./Algorithms/225.Implement_Stack_using_Queues/Solution.java)]. 225-232；
@@ -97,6 +98,7 @@
 - [剑指Offer 36](./Algorithms/Offer36/note.md).[[Code](./Algorithms/Offer36/Solution.java)].
 - [剑指Offer 37](./Algorithms/Offer37/note.md).[[Code](./Algorithms/Offer37/Solution.java)]. 297-剑指 Offer 37；
 - [剑指Offer 38](./Algorithms/Offer38/note.md).[[Code](./Algorithms/Offer38/Solution.java)].
+- [剑指Offer 39](./Algorithms/Offer39/note.md).[[Code](./Algorithms/Offer39/Solution.java)]. 169-剑指 Offer 39；
 
 # 4. Database
 

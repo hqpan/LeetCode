@@ -143,3 +143,8 @@ Scanner in = new Scanner(System.in);
 
 - `Math.min()`：仅能接受两个参数；
 
+# 8. 运算符
+
+- 右移：
+  - `>>`：有符号右移；
+  - `>>>`：无符号右移；
