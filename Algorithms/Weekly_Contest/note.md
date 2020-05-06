@@ -6,8 +6,6 @@
 
 - ；
 
-
-
 # 2. 边界条件
 
 - E.g. 现有数组`arr = [1, 2, 2, 3, 3, 3, ...]`，统计每个数值出现的次数；
@@ -56,6 +54,27 @@ import java.util.LinkedList;
 Queue<Integer> queue = new LinkedList<>();
 ```
 
+- PriorityQueue：`java.util.PriorityQueue`；
+  - 构造函数：
+    - `public PriorityQueue()`：默认容量为11，不指定比较器时，默认为最小堆；
+    - `public PriorityQueue(int initialCapacity)`；
+    - `public PriorityQueue(Comparator<? super E> comparator)`：比较器用于确定优先队列中数值的顺序；
+    - `public PriorityQueue(int initialCapacity, Comparator<? super E> comparator)`；
+    - ==注意==：比较器的 lambda 表达式写法：
+      - `PriorityQueue<Integer> heap = new PriorityQueue<>((val1, val2) -> val1 - val2);`：最小堆；
+      - `PriorityQueue<Integer> heap = new PriorityQueue<>((val1, val2) -> val2 - val1);`：最大堆；
+      - 括号中的`(val1, val2)`表示函数参数，`->`后的`val1 - val2`表示函数返回值；
+  - `public boolean add(E e)`；
+  - `public E peek()`；
+  - `public E poll()`；
+  - `public boolean remove(Object o)`；
+  - `public boolean contains(Object o)`；
+  - `public int size()`；
+  - `public Object[] toArray()`；
+  - `public <T> T[] toArray(T[] a)`；
+    - Java 中的强制类型转换仅针对单个对象，无法对数组实现强制类型转换；
+    - 该方法可将集合对象转换为特定类型的数组，E.g. String、Integer；
+    - 若题目要求返回值为`int`类型，则返回`Integer`类型的数组将报错，因为无法对数组执行强制类型转换（自动拆箱）；
 - Stack：`java.util.Stack`；
   - push；
   - pop；
@@ -98,10 +117,8 @@ Queue<Integer> queue = new LinkedList<>();
 - 返回数组：
 
 ```java
-return int[] {1, 2};
+return new int[] {1, 2};
 ```
-
-
 
 # 6. 输入输出
 
@@ -137,8 +154,6 @@ Scanner in = new Scanner(System.in);
 - 切分字符串：`public String[] split(String regex)`；
 - 读取一行用空格分隔的数值：`String[] nums = in.nextLine().split(" ");`；
 
-
-
 # 7. 数值计算
 
 - `Math.min()`：仅能接受两个参数；
@@ -148,3 +163,58 @@ Scanner in = new Scanner(System.in);
 - 右移：
   - `>>`：有符号右移；
   - `>>>`：无符号右移；
+
+# 9. 常见算法
+
+## 9.1 排序
+
+### 9.1.1 快速排序
+
+- partition 函数：快速排序算法的一部分，可用于求解数组中第 n 大的数；==应掌握该函数==
+
+```java
+import java.util.Arrays;
+
+public class Main {
+    public static void main(String[] args) {
+        int[] nums = {3, 7, 4, 9, 2, 5, 1, 6, 8};
+        sort(nums, 0, nums.length - 1);
+        System.out.println(Arrays.toString(nums));
+    }
+
+    public static void sort(int[] nums, int lo, int hi) {
+        if (lo >= hi)
+            return;
+        int index = partition(nums, lo, hi);
+        sort(nums, lo, index - 1);
+        sort(nums, index + 1, hi);
+    }
+
+    public static int partition(int[] nums, int lo, int hi) {
+        int i = lo;
+        int j = hi + 1;
+        int base = nums[lo];
+        while (true) {
+            while (nums[++i] < base)
+                if (i == hi)
+                    break;
+            while (nums[--j] > base)
+                if (j == lo)
+                    break;
+            if (i >= j)
+                break;
+            exch(nums, i, j);
+        }
+        exch(nums, lo, j);
+        return j;
+    }
+
+    public static void exch(int[] nums, int index1, int index2) {
+        int temp = nums[index1];
+        nums[index1] = nums[index2];
+        nums[index2] = temp;
+    }
+}
+
+```
+

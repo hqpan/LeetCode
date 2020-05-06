@@ -43,7 +43,8 @@
 - [155. Min Stack](./Algorithms/155.Min_Stack/note.md).[[Code](./Algorithms/155.Min_Stack/Solution.java)]. 155-剑指 Offer 30；==无需复习==
 - [169. Majority Element](./Algorithms/169.Majority_Element/note.md).[[Code](./Algorithms/169.Majority_Element/Solution.java)]. 169-剑指 Offer 39；
 - [191. Number of 1 Bits](./Algorithms/191.Number_of_1_Bits/note.md).[[Code](./Algorithms/191.Number_of_1_Bits/Solution.java)]. 位运算：191-231-461；
-- [206. Reverse Linked List](./Algorithms/206.Reverse_Linked_List/note.md).[[Code](./Algorithms/206.Reverse_Linked_List/Solution.java)].  206-剑指 Offer 24；Review: 1;
+- [206. Reverse Linked List](./Algorithms/206.Reverse_Linked_List/note.md).[[Code](./Algorithms/206.Reverse_Linked_List/Solution.java)].  206-剑指 Offer 24；Review: 1；
+- [215. Kth Largest Element in an Array](./Algorithms/215.Kth_Largest_Element_in_an_Array/note.md).[[Code](./Algorithms/215.Kth_Largest_Element_in_an_Array/Solution.java)].  215-剑指 Offer 40；
 - [225. Implement Stack using Queues](./Algorithms/225.Implement_Stack_using_Queues/note.md).[[Code](./Algorithms/225.Implement_Stack_using_Queues/Solution.java)]. 225-232；
 - [226. Invert Binary Tree](./Algorithms/226.Invert_Binary_Tree/note.md).[[Code](./Algorithms/226.Invert_Binary_Tree/Solution.java)]. 226-剑指 Offer 27；==无需复习==
 - [231. Power of Two](./Algorithms/231.Power_of_Two/note.md).[[Code](./Algorithms/231.Power_of_Two/Solution.java)]. 位运算：191-231-461；
@@ -52,7 +53,7 @@
 - [263. Ugly Number](./Algorithms/263.Ugly_Number/note.md).[[Code](./Algorithms/263.Ugly_Number/Solution.java)].
 - [264. Ugly_Number_II](./Algorithms/264.Ugly_Number_II/note.md).[[Code](./Algorithms/264.Ugly_Number_II/Solution.java)].
 - [268. Missing Number](./Algorithms/268.Missing_Number/note.md).[[Code](./Algorithms/268.Missing_Number/Solution.java)].
-- [287. Find the Duplicate Number](./Algorithms/287.Find_the_Duplicate_Number/note.md).[[Code](./Algorithms/287.Find_the_Duplicate_Number/Solution.java)]. 287-剑指 Offer 23；Review: 1;
+- [287. Find the Duplicate Number](./Algorithms/287.Find_the_Duplicate_Number/note.md).[[Code](./Algorithms/287.Find_the_Duplicate_Number/Solution.java)]. 287-剑指 Offer 23；Review: 1；
 - [297. Serialize and Deserialize Binary Tree](./Algorithms/297.Serialize_and_Deserialize_Binary_Tree/note.md).[[Code](./Algorithms/297.Serialize_and_Deserialize_Binary_Tree/Solution.java)]. 297-剑指 Offer 37；
 - [343. Integer Break](./Algorithms/343.Integer_Break/note.md).[[Code](./Algorithms/343.Integer_Break/Solution.java)]. 343-剑指 Offer 14；
 - [437. Path Sum III](./Algorithms/437.Path_Sum_III/note.md).[[Code](./Algorithms/437.Path_Sum_III/Solution.java)]. 112-113-剑指 Offer 34-437；
@@ -99,6 +100,7 @@
 - [剑指Offer 37](./Algorithms/Offer37/note.md).[[Code](./Algorithms/Offer37/Solution.java)]. 297-剑指 Offer 37；
 - [剑指Offer 38](./Algorithms/Offer38/note.md).[[Code](./Algorithms/Offer38/Solution.java)].
 - [剑指Offer 39](./Algorithms/Offer39/note.md).[[Code](./Algorithms/Offer39/Solution.java)]. 169-剑指 Offer 39；
+- [剑指Offer 40](./Algorithms/Offer40/note.md).[[Code](./Algorithms/Offer40/Solution.java)]. 215-剑指 Offer 40；
 
 # 4. Database
 
