@@ -64,11 +64,11 @@ Queue<Integer> queue = new LinkedList<>();
       - `PriorityQueue<Integer> heap = new PriorityQueue<>((val1, val2) -> val1 - val2);`：最小堆；
       - `PriorityQueue<Integer> heap = new PriorityQueue<>((val1, val2) -> val2 - val1);`：最大堆；
       - 括号中的`(val1, val2)`表示函数参数，`->`后的`val1 - val2`表示函数返回值；
-  - `public boolean add(E e)`；
-  - `public E peek()`；
-  - `public E poll()`；
-  - `public boolean remove(Object o)`；
-  - `public boolean contains(Object o)`；
+  - `public boolean add(E e)`：时间复杂度$O(logn)$；
+  - `public E peek()`：时间复杂度$O(1)$；
+  - `public E poll()`：时间复杂度$O(logn)$；
+  - `public boolean remove(Object o)`：时间复杂度$O(n)$；
+  - `public boolean contains(Object o)`：时间复杂度$O(n)$；
   - `public int size()`；
   - `public Object[] toArray()`；
   - `public <T> T[] toArray(T[] a)`；
@@ -157,6 +157,14 @@ Scanner in = new Scanner(System.in);
 # 7. 数值计算
 
 - `Math.min()`：仅能接受两个参数；
+- 随机数：
+  - `java.util.Random`：创建`Random`对象，对其调用以下方法；
+    - `public boolean nextBoolean()`；
+    - `public int nextInt()`：随机返回一个整数值，$[-2^{31}, 2^{31} - 1]$；
+    - `public int nextInt(int bound)`：返回`[0, bound)`之间的一个随机值；
+    - `public float nextFloat()`：$[0.0, 1.0]$；
+    - `public double nextDouble()`：$[0.0, 1.0]$；
+  - `java.lang.Math`：`public static double random()`，$[0.0, 1.0)$；
 
 # 8. 运算符
 
