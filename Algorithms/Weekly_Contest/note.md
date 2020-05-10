@@ -4,7 +4,7 @@
 
 # 1. Background
 
-- ；
+- Java 常用语法；
 
 # 2. 边界条件
 
@@ -226,3 +226,11 @@ public class Main {
 
 ```
 
+# 10 基本数据类型
+
+- 求`int`、`long`类型数值中某一位的值：
+  - `public static String toString(int i)`：将整型值转换为字符串；
+  - `public static String toString(long i)`：将长整型值转换为字符串；
+  - `public char charAt(int index)`：以字符的形式返回某一位上的值；
+  - `return ans - '0'`：即可得对应的整数值；
+  - ==注意==：此处不可使用`(int) ans`，该语句将返回 ASCII 码对应的整数值，而非字符表示的整数值；

@@ -60,6 +60,7 @@
 - [295. Find Median from Data Stream](./Algorithms/295.Find_Median_from_Data_Stream/note.md).[[Code](./Algorithms/295.Find_Median_from_Data_Stream/Solution.java)]. 295-剑指 Offer 41；
 - [297. Serialize and Deserialize Binary Tree](./Algorithms/297.Serialize_and_Deserialize_Binary_Tree/note.md).[[Code](./Algorithms/297.Serialize_and_Deserialize_Binary_Tree/Solution.java)]. 297-剑指 Offer 37；
 - [343. Integer Break](./Algorithms/343.Integer_Break/note.md).[[Code](./Algorithms/343.Integer_Break/Solution.java)]. 343-剑指 Offer 14；
+- [400. Nth Digit](./Algorithms/400.Nth_Digit/note.md).[[Code](./Algorithms/400.Nth_Digit/Solution.java)]. 400-剑指 Offer 44；
 - [437. Path Sum III](./Algorithms/437.Path_Sum_III/note.md).[[Code](./Algorithms/437.Path_Sum_III/Solution.java)]. 112-113-剑指 Offer 34-437；
 - [448. Find All Numbers Disappeared in an Array](./Algorithms/448.Find_All_Numbers_Disappeared_in_an_Array/note.md).[[Code](./Algorithms/448.Find_All_Numbers_Disappeared_in_an_Array/Solution.java)].
 - [461. Hamming Distance](./Algorithms/461.Hamming_Distance/note.md).[[Code](./Algorithms/461.Hamming_Distance/Solution.java)]. 位运算：191-231-461；
@@ -108,6 +109,7 @@
 - [剑指Offer 41](./Algorithms/Offer41/note.md).[[Code](./Algorithms/Offer41/Solution.java)]. 295-剑指 Offer 41；
 - [剑指Offer 42](./Algorithms/Offer42/note.md).[[Code](./Algorithms/Offer42/Solution.java)]. 53-152-剑指 Offer 42；
 - [剑指Offer 43](./Algorithms/Offer43/note.md).[[Code](./Algorithms/Offer43/Solution.java)]. 233-剑指 Offer 43；
+- [剑指Offer 44](./Algorithms/Offer44/note.md).[[Code](./Algorithms/Offer44/Solution.java)]. 400-剑指 Offer 44；
 
 # 4. Database
 
