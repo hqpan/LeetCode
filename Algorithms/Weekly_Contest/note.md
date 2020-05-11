@@ -18,11 +18,13 @@
 # 3. 字符串处理
 
 - `java.lang.String`：
+  - `public int compareTo(String anotherString)`：比较两个字符串的字典序大小；
   - `substring(int beginIndex, int endIndex)`：从某个字符串中取子字符串；
   - `public char[] toCharArray()`：将字符串转换为字符数组；
   - `public String trim()`：去除字符串首尾空格；
   - `public String replaceAll(String regex, String replacement)`：替换字符串中的部分字符；
     - `str.replaceAll(" ", ",");`：将字符串中所有空格替换为逗号；
+  - `public static valueOf(T val)`：将 Object、boolean、char、int、long、float、double 转换为字符串；
   - `public static String valueOf(char[] data)`：将字符数组转换为字符串；
 - `java.lang.StringBuilder`：
   - `public StringBuilder append(E b)`；
@@ -224,6 +226,25 @@ public class Main {
     }
 }
 
+```
+
+### 9.1.2 自定义比较器
+
+-  用函数实现自定义比较器：被排序的数组必须为引用数据类型，不能为基本数据类型，参见剑指 Offer 45；
+
+```java
+Arrays.sort(strs, new Comparator<>() {
+            @Override
+            public int compare(String str1, String str2) {
+                return str1.compareTo(str2);
+            }
+        });
+```
+
+- 用 Lambda 表达式实现自定义比较器：被排序的数组必须为引用数据类型，不能为基本数据类型，参见剑指 Offer 45；
+
+```java
+Arrays.sort(strs, (x, y) -> (x + y).compareTo(y + x));
 ```
 
 # 10 基本数据类型
