@@ -6,7 +6,17 @@
 
 - Java 常用语法；
 
-# 2. 边界条件
+# 2. 条件判断
+
+- switch；
+
+```java
+switch(expression){
+    case value1 : expression1; break;
+    case value2 : expression2; break;
+    default : expression3;
+}
+```
 
 # 3. 字符串处理
 
@@ -151,7 +161,9 @@ Scanner in = new Scanner(System.in);
 
 # 7. 数值计算
 
-- `Math.min()`：仅能接受两个参数；
+- 大小比较：
+  - `Math.min()`：可比较`int`、`long`、`double`等类型的数据，并返回对应类型的值；
+  - `Math.min()`：仅能接受两个参数；
 - 随机数：
   - `java.util.Random`：创建`Random`对象，对其调用以下方法；
     - `public boolean nextBoolean()`；
