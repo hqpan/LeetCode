@@ -8,6 +8,7 @@
 # 2. Algorithm
 
 - [1. Two Sum](./Algorithms/1.Two_Sum/note.md).[[Code](./Algorithms/1.Two_Sum/Solution.java)]. 1-15；
+- [3. Longest Substring Without Repeating Characters](./Algorithms/3.Longest_Substring_Without_Repeating_Characters/note.md).[[Code](./Algorithms/3.Longest_Substring_Without_Repeating_Characters/Solution.java)]. 3-剑指 Offer 48；==无需复习==
 - [9. Palindrome Number](./Algorithms/9.Palindrome_Number/note.md).[[Code](./Algorithms/9.Palindrome_Number/Solution.java)].
 - [10. Regular Expression Matching](./Algorithms/10.Regular_Expression_Matching/note.md).[[Code](./Algorithms/10.Regular_Expression_Matching/Solution.java)]. 10-剑指 Offer 19；
 - [15. 3Sum](./Algorithms/15.3Sum/note.md).[[Code](./Algorithms/15.3Sum/Solution.java)]. 1-15；
@@ -113,7 +114,8 @@
 - [剑指Offer 44](./Algorithms/Offer44/note.md).[[Code](./Algorithms/Offer44/Solution.java)]. 400-剑指 Offer 44；
 - [剑指Offer 45](./Algorithms/Offer45/note.md).[[Code](./Algorithms/Offer45/Solution.java)]. 
 - [剑指Offer 46](./Algorithms/Offer46/note.md).[[Code](./Algorithms/Offer46/Solution.java)]. DP； 
-- [剑指Offer 47](./Algorithms/Offer47/note.md).[[Code](./Algorithms/Offer47/Solution.java)]. DP；==无需复习== 
+- [剑指Offer 47](./Algorithms/Offer47/note.md).[[Code](./Algorithms/Offer47/Solution.java)]. ==无需复习== 
+- [剑指Offer 48](./Algorithms/Offer48/note.md).[[Code](./Algorithms/Offer48/Solution.java)]. 3-剑指 Offer 48；==无需复习==
 
 # 4. Database
 

@@ -101,15 +101,16 @@ Queue<Integer> queue = new LinkedList<>();
   - remove；
   - `public Object[] toArray()`；
   - size；
-- HashMap：`java.util.HashMap;`;
+- HashMap：`java.util.HashMap;`；
+  - `public void clear()`；
+  - isEmpty；
+  - size；
   - `public boolean containsKey(Object key)`；
   - `public boolean containsValue(Object value)`；
-  - isEmpty；
   - `public V put(K key, V value)`；
   - `public V get(Object key)`；
-  - `public Collection<V> values()`；
   - `public V remove(Object key)`；
-  - size；
+  - `public Collection<V> values()`；
 - HashSet：`java.util.HashSet`，集合中的元素无序、不重复；
   - `public boolean add(E e)`；
   - `public boolean remove(Object o)`；
