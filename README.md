@@ -55,8 +55,8 @@
 - [232. Implement Queue using Stacks](./Algorithms/232.Implement_Queue_using_Stacks/note.md).[[Code](./Algorithms/232.Implement_Queue_using_Stacks/Solution.java)]. 225-232；
 - [233. Number of Digit One](./Algorithms/233.Number_of_Digit_One/note.md).[[Code](./Algorithms/233.Number_of_Digit_One/Solution.java)]. 233-剑指 Offer 43；
 - [240. Search a 2D Matrix II](./Algorithms/240.Search_a_2D_Matrix_II/note.md).[[Code](./Algorithms/240.Search_a_2D_Matrix_II/Solution.java)]. 74-240；
-- [263. Ugly Number](./Algorithms/263.Ugly_Number/note.md).[[Code](./Algorithms/263.Ugly_Number/Solution.java)].
-- [264. Ugly_Number_II](./Algorithms/264.Ugly_Number_II/note.md).[[Code](./Algorithms/264.Ugly_Number_II/Solution.java)].
+- [263. Ugly Number](./Algorithms/263.Ugly_Number/note.md).[[Code](./Algorithms/263.Ugly_Number/Solution.java)]. 263-264-剑指 Offer 49；DP；
+- [264. Ugly_Number_II](./Algorithms/264.Ugly_Number_II/note.md).[[Code](./Algorithms/264.Ugly_Number_II/Solution.java)]. 263-264-剑指 Offer 49；DP；
 - [268. Missing Number](./Algorithms/268.Missing_Number/note.md).[[Code](./Algorithms/268.Missing_Number/Solution.java)].
 - [287. Find the Duplicate Number](./Algorithms/287.Find_the_Duplicate_Number/note.md).[[Code](./Algorithms/287.Find_the_Duplicate_Number/Solution.java)]. 287-剑指 Offer 23；Review: 1；
 - [295. Find Median from Data Stream](./Algorithms/295.Find_Median_from_Data_Stream/note.md).[[Code](./Algorithms/295.Find_Median_from_Data_Stream/Solution.java)]. 295-剑指 Offer 41；
@@ -116,6 +116,8 @@
 - [剑指Offer 46](./Algorithms/Offer46/note.md).[[Code](./Algorithms/Offer46/Solution.java)]. DP； 
 - [剑指Offer 47](./Algorithms/Offer47/note.md).[[Code](./Algorithms/Offer47/Solution.java)]. ==无需复习== 
 - [剑指Offer 48](./Algorithms/Offer48/note.md).[[Code](./Algorithms/Offer48/Solution.java)]. 3-剑指 Offer 48；==无需复习==
+- [剑指Offer 49](./Algorithms/Offer49/note.md).[[Code](./Algorithms/Offer49/Solution.java)]. 263-264-剑指 Offer 49；DP；
+- [剑指Offer 50](./Algorithms/Offer50/note.md).[[Code](./Algorithms/Offer50/Solution.java)]. ==无需复习== 
 
 # 4. Database
 
@@ -148,3 +150,9 @@
   - 173M二叉搜索树迭代器；
   - 987M二叉树的垂序遍历-99恢复二叉搜索树H；
   - 110E平衡二叉树；
+
+# ==Schedule==
+
+- 6月3日完成剑指 Offer；
+- 6-7月完成 hot 100；（统计至5月15日止，剩余65题）
+- 8月零星刷题，兼顾数据库笔试题，每日复习1-2题；
