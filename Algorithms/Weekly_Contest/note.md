@@ -164,7 +164,7 @@ Scanner in = new Scanner(System.in);
 
 - 大小比较：
   - `Math.min()`：可比较`int`、`long`、`double`等类型的数据，并返回对应类型的值；
-  - `Math.min()`：仅能接受两个参数；
+  - `Math.min()`：仅能接受两个参数，嵌套调用该函数即可实现多值比较；
 - 随机数：
   - `java.util.Random`：创建`Random`对象，对其调用以下方法；
     - `public boolean nextBoolean()`；
