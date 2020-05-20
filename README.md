@@ -45,6 +45,7 @@
 - [153. Find Minimum in Rotated Sorted Array](./Algorithms/153.Find_Minimum_in_Rotated_Sorted_Array/note.md).[[Code](./Algorithms/153.Find_Minimum_in_Rotated_Sorted_Array/Solution.java)]. 33-81-153-154；
 - [154. Find Minimum in Rotated Sorted Array II](./Algorithms/154.Find_Minimum_in_Rotated_Sorted_Array_II/note.md).[[Code](./Algorithms/154.Find_Minimum_in_Rotated_Sorted_Array_II/Solution.java)]. 33-81-153-154；
 - [155. Min Stack](./Algorithms/155.Min_Stack/note.md).[[Code](./Algorithms/155.Min_Stack/Solution.java)]. 155-剑指 Offer 30；==无需复习==
+- [160. Intersection of Two Linked Lists](./Algorithms/160.Intersection_of_Two_Linked_Lists/note.md).[[Code](./Algorithms/160.Intersection_of_Two_Linked_Lists/Solution.java)]. 160-剑指 Offer 52；
 - [169. Majority Element](./Algorithms/169.Majority_Element/note.md).[[Code](./Algorithms/169.Majority_Element/Solution.java)]. 169-剑指 Offer 39；
 - [191. Number of 1 Bits](./Algorithms/191.Number_of_1_Bits/note.md).[[Code](./Algorithms/191.Number_of_1_Bits/Solution.java)]. 位运算：191-231-461；
 - [206. Reverse Linked List](./Algorithms/206.Reverse_Linked_List/note.md).[[Code](./Algorithms/206.Reverse_Linked_List/Solution.java)].  206-剑指 Offer 24；Review: 1；
@@ -119,6 +120,7 @@
 - [剑指Offer 49](./Algorithms/Offer49/note.md).[[Code](./Algorithms/Offer49/Solution.java)]. 263-264-剑指 Offer 49；DP；
 - [剑指Offer 50](./Algorithms/Offer50/note.md).[[Code](./Algorithms/Offer50/Solution.java)]. ==无需复习== 
 - [剑指Offer 51](./Algorithms/Offer51/note.md).[[Code](./Algorithms/Offer51/Solution.java)].
+- [剑指Offer 52](./Algorithms/Offer52/note.md).[[Code](./Algorithms/Offer52/Solution.java)]. 160-剑指 Offer 52；
 
 # 4. Database
 
@@ -145,7 +147,7 @@
 - 765H?-142M?-442M;
 - 313M超级丑数-560M;
   - 204E计算质数-279M完全平方数-23H合并k个排序链表；
-- 234E回文链表;
+- 234E回文链表；
 - 202E快乐数-204E计算质数-794M有效的井字游戏-972H相等的有理数-800E相似RGB颜色-939M最小面积矩形；
 - 559EN叉树的最大深度-662M二叉树的最大宽度；
   - 173M二叉搜索树迭代器；
