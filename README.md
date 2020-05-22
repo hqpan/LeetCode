@@ -15,6 +15,7 @@
 - [19. Remove Nth Node From End of List](./Algorithms/19.Remove_Nth_Node_From_End_of_List/note.md).[[Code](./Algorithms/19.Remove_Nth_Node_From_End_of_List/Solution.java)]. 19-剑指 Offer 22；
 - [21. Merge Two Sorted Lists](./Algorithms/21.Merge_Two_Sorted_Lists/note.md).[[Code](./Algorithms/21.Merge_Two_Sorted_Lists/Solution.java)]. 21-剑指 Offer 25；==无需复习==
 - [33. Search in Rotated Sorted Array](./Algorithms/33.Search_in_Rotated_Sorted_Array/note.md).[[Code](./Algorithms/33.Search_in_Rotated_Sorted_Array/Solution.java)]. 33-81-153-154；
+- [34. Find First and Last Position of Element in Sorted Array](./Algorithms/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array/note.md).[[Code](./Algorithms/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array/Solution.java)]. 34-剑指 Offer 53；
 - [41. First Missing Positive](./Algorithms/41.First_Missing_Positive/note.md).[[Code](./Algorithms/41.First_Missing_Positive/Solution.java)].
 - [50. Pow(x,n)](./Algorithms/50.Pow(x,n)/note.md).[[Code](./Algorithms/50.Pow(x,n)/Solution.java)]. 50-剑指 Offer 16；
 - [53. Maximum Subarray](./Algorithms/53.Maximum_Subarray/note.md).[[Code](./Algorithms/53.Maximum_Subarray/Solution.java)]. 53-152-剑指 Offer 42；
@@ -121,6 +122,7 @@
 - [剑指Offer 50](./Algorithms/Offer50/note.md).[[Code](./Algorithms/Offer50/Solution.java)]. ==无需复习== 
 - [剑指Offer 51](./Algorithms/Offer51/note.md).[[Code](./Algorithms/Offer51/Solution.java)].
 - [剑指Offer 52](./Algorithms/Offer52/note.md).[[Code](./Algorithms/Offer52/Solution.java)]. 160-剑指 Offer 52；
+- [剑指Offer 53](./Algorithms/Offer53/note.md).[[Code](./Algorithms/Offer53/Solution.java)]. 34-剑指 Offer 53；
 
 # 4. Database
 
