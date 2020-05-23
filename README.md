@@ -123,6 +123,7 @@
 - [剑指Offer 51](./Algorithms/Offer51/note.md).[[Code](./Algorithms/Offer51/Solution.java)].
 - [剑指Offer 52](./Algorithms/Offer52/note.md).[[Code](./Algorithms/Offer52/Solution.java)]. 160-剑指 Offer 52；
 - [剑指Offer 53](./Algorithms/Offer53/note.md).[[Code](./Algorithms/Offer53/Solution.java)]. 34-剑指 Offer 53；
+- [剑指Offer 54](./Algorithms/Offer54/note.md).[[Code](./Algorithms/Offer54/Solution.java)]. ==无需复习== 
 
 # 4. Database
 
