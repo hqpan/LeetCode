@@ -64,7 +64,7 @@ class Solution {
       - 对每个节点执行该操作；
 - 缺点：重复遍历同一节点；
 
-  ```java
+```java
 // Approach 1: 自顶向下递归
 class Solution {
     public boolean isBalanced(TreeNode root) {
@@ -84,7 +84,7 @@ class Solution {
         return Math.max(leftDepth, rightDepth) + 1;
     }
 }
-  ```
+```
 
 ## 2.3 自底向上递归
 
