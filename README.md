@@ -29,9 +29,10 @@
 - [98. Validate Binary Search Tree](./Algorithms/98.Validate_Binary_Search_Tree/note.md).[[Code](./Algorithms/98.Validate_Binary_Search_Tree/Solution.java)].
 - [101. Symmetric Tree](./Algorithms/101.Symmetric_Tree/note.md).[[Code](./Algorithms/101.Symmetric_Tree/Solution.java)]. ==无需复习==
 - [102. Binary Tree Level Order Traversal](./Algorithms/102.Binary_Tree_Level_Order_Traversal/note.md).[[Code](./Algorithms/102.Binary_Tree_Level_Order_Traversal/Solution.java)].
-- [104. Maximum Depth of Binary Tree](./Algorithms/104.Maximum_Depth_of_Binary_Tree/note.md).[[Code](./Algorithms/104.Maximum_Depth_of_Binary_Tree/Solution.java)].
+- [104. Maximum Depth of Binary Tree](./Algorithms/104.Maximum_Depth_of_Binary_Tree/note.md).[[Code](./Algorithms/104.Maximum_Depth_of_Binary_Tree/Solution.java)]. 104-110-剑指 Offer 55；
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](./Algorithms/105.Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/note.md).[[Code](./Algorithms/105.Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/Solution.java)].
 - [106. Construct Binary Tree from Inorder and Postorder Traversal](./Algorithms/106.Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal/note.md).[[Code](./Algorithms/106.Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal/Solution.java)].
+- [110. Balanced Binary Tree](./Algorithms/110.Balanced_Binary_Tree/note.md).[[Code](./Algorithms/110.Balanced_Binary_Tree/Solution.java)]. 104-110-剑指 Offer 55；
 - [111. Minimum Depth of Binary Tree](./Algorithms/111.Minimum_Depth_of_Binary_Tree/note.md).[[Code](./Algorithms/111.Minimum_Depth_of_Binary_Tree/Solution.java)].
 - [112. Path Sum](./Algorithms/112.Path_Sum/note.md).[[Code](./Algorithms/112.Path_Sum/Solution.java)]. 112-113-剑指 Offer 34-437；
 - [113. Path Sum II](./Algorithms/113.Path_Sum_II/note.md).[[Code](./Algorithms/113.Path_Sum_II/Solution.java)]. 112-113-剑指 Offer 34-437；
@@ -124,6 +125,7 @@
 - [剑指Offer 52](./Algorithms/Offer52/note.md).[[Code](./Algorithms/Offer52/Solution.java)]. 160-剑指 Offer 52；
 - [剑指Offer 53](./Algorithms/Offer53/note.md).[[Code](./Algorithms/Offer53/Solution.java)]. 34-剑指 Offer 53；
 - [剑指Offer 54](./Algorithms/Offer54/note.md).[[Code](./Algorithms/Offer54/Solution.java)]. ==无需复习== 
+- [剑指Offer 55](./Algorithms/Offer55/note.md).[[Code](./Algorithms/Offer55/Solution.java)]. 104-110-剑指 Offer 55；
 
 # 4. Database
 
@@ -155,7 +157,6 @@
 - 559EN叉树的最大深度-662M二叉树的最大宽度；
   - 173M二叉搜索树迭代器；
   - 987M二叉树的垂序遍历-99恢复二叉搜索树H；
-  - 110E平衡二叉树；
 
 # ==Schedule==
 
