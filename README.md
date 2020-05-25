@@ -36,8 +36,8 @@
 - [111. Minimum Depth of Binary Tree](./Algorithms/111.Minimum_Depth_of_Binary_Tree/note.md).[[Code](./Algorithms/111.Minimum_Depth_of_Binary_Tree/Solution.java)].
 - [112. Path Sum](./Algorithms/112.Path_Sum/note.md).[[Code](./Algorithms/112.Path_Sum/Solution.java)]. 112-113-剑指 Offer 34-437；
 - [113. Path Sum II](./Algorithms/113.Path_Sum_II/note.md).[[Code](./Algorithms/113.Path_Sum_II/Solution.java)]. 112-113-剑指 Offer 34-437；
-- [136. Single Number](./Algorithms/136.Single_Number/note.md).[[Code](./Algorithms/136.Single_Number/Solution.java)].
-- [137. Single Number II](./Algorithms/137.Single_Number_II/note.md).[[Code](./Algorithms/137.Single_Number_II/Solution.java)].
+- [136. Single Number](./Algorithms/136.Single_Number/note.md).[[Code](./Algorithms/136.Single_Number/Solution.java)]. 136-137-260-剑指 Offer 56；
+- [137. Single Number II](./Algorithms/137.Single_Number_II/note.md).[[Code](./Algorithms/137.Single_Number_II/Solution.java)]. 136-137-260-剑指 Offer 56；
 - [138. Copy List with Random Pointer](./Algorithms/138.Copy_List_with_Random_Pointer/note.md).[[Code](./Algorithms/138.Copy_List_with_Random_Pointer/Solution.java)]. 138-剑指 Offer 35；
 - [144. Binary Tree Preorder Traversal](./Algorithms/144.Binary_Tree_Preorder_Traversal/note.md).[[Code](./Algorithms/144.Binary_Tree_Preorder_Traversal/Solution.java)]. ==无需复习==
 - [145. Binary Tree Postorder Traversal](./Algorithms/145.Binary_Tree_Postorder_Traversal/note.md).[[Code](./Algorithms/145.Binary_Tree_Postorder_Traversal/Solution.java)]. 145-590；
@@ -58,6 +58,7 @@
 - [232. Implement Queue using Stacks](./Algorithms/232.Implement_Queue_using_Stacks/note.md).[[Code](./Algorithms/232.Implement_Queue_using_Stacks/Solution.java)]. 225-232；
 - [233. Number of Digit One](./Algorithms/233.Number_of_Digit_One/note.md).[[Code](./Algorithms/233.Number_of_Digit_One/Solution.java)]. 233-剑指 Offer 43；
 - [240. Search a 2D Matrix II](./Algorithms/240.Search_a_2D_Matrix_II/note.md).[[Code](./Algorithms/240.Search_a_2D_Matrix_II/Solution.java)]. 74-240；
+- [260. Single Number III](./Algorithms/260.Single_Number_III/note.md).[[Code](./Algorithms/260.Single_Number_III/Solution.java)]. 136-137-260-剑指 Offer 56；
 - [263. Ugly Number](./Algorithms/263.Ugly_Number/note.md).[[Code](./Algorithms/263.Ugly_Number/Solution.java)]. 263-264-剑指 Offer 49；DP；
 - [264. Ugly_Number_II](./Algorithms/264.Ugly_Number_II/note.md).[[Code](./Algorithms/264.Ugly_Number_II/Solution.java)]. 263-264-剑指 Offer 49；DP；
 - [268. Missing Number](./Algorithms/268.Missing_Number/note.md).[[Code](./Algorithms/268.Missing_Number/Solution.java)].
@@ -126,6 +127,7 @@
 - [剑指Offer 53](./Algorithms/Offer53/note.md).[[Code](./Algorithms/Offer53/Solution.java)]. 34-剑指 Offer 53；
 - [剑指Offer 54](./Algorithms/Offer54/note.md).[[Code](./Algorithms/Offer54/Solution.java)]. ==无需复习== 
 - [剑指Offer 55](./Algorithms/Offer55/note.md).[[Code](./Algorithms/Offer55/Solution.java)]. 104-110-剑指 Offer 55；
+- [剑指Offer 56](./Algorithms/Offer56/note.md).[[Code](./Algorithms/Offer56/Solution.java)]. 136-137-260-剑指 Offer 56；
 
 # 4. Database
 
