@@ -126,6 +126,14 @@ Queue<Integer> queue = new LinkedList<>();
 return new int[] {1, 2};
 ```
 
+- 返回二维数组：
+
+```java
+List<int[]> res = new ArrayList<>();
+res.add(row);
+return res.toArray(new int[res.size()][]);
+```
+
 # 6. 输入输出
 
 - Scanner 类；
@@ -213,10 +221,10 @@ public class Main {
         int base = nums[lo];
         while (true) {
             while (nums[++i] < base)
-                if (i == hi)
+                if (i == hi)	// notes
                     break;
             while (nums[--j] > base)
-                if (j == lo)
+                if (j == lo)	// notes
                     break;
             if (i >= j)
                 break;

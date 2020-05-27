@@ -86,7 +86,7 @@
 
 # 3. 剑指 Offer
 
-- [剑指Offer 14-I & 14-II](./Algorithms/Offer14/note.md).[[Code](./Algorithms/Offer14/Solution.java)]. 343-剑指 Offer 14；
+- [剑指Offer 14](./Algorithms/Offer14/note.md).[[Code](./Algorithms/Offer14/Solution.java)]. 343-剑指 Offer 14；
 - [剑指Offer 16](./Algorithms/Offer16/note.md).[[Code](./Algorithms/Offer16/Solution.java)]. 50-剑指 Offer 16；
 - 剑指Offer 17. 在 LeetCode 中被弱化，此处不再赘述；
 - [剑指Offer 18](./Algorithms/Offer18/note.md).[[Code](./Algorithms/Offer18/Solution.java)].
@@ -128,6 +128,7 @@
 - [剑指Offer 54](./Algorithms/Offer54/note.md).[[Code](./Algorithms/Offer54/Solution.java)]. ==无需复习== 
 - [剑指Offer 55](./Algorithms/Offer55/note.md).[[Code](./Algorithms/Offer55/Solution.java)]. 104-110-剑指 Offer 55；
 - [剑指Offer 56](./Algorithms/Offer56/note.md).[[Code](./Algorithms/Offer56/Solution.java)]. 136-137-260-剑指 Offer 56；
+- [剑指Offer 57](./Algorithms/Offer57/note.md).[[Code](./Algorithms/Offer57/Solution.java)]. 
 
 # 4. Database
 
@@ -150,7 +151,6 @@
   - LeetCode 10 & 剑指 Offer 19 中，DP 解法未学习；
   - 完成 hot 100 中所有 DP 习题；
 - 389;
-- 260;
 - 765H?-142M?-442M;
 - 313M超级丑数-560M;
   - 204E计算质数-279M完全平方数-23H合并k个排序链表；
@@ -162,6 +162,6 @@
 
 # ==Schedule==
 
-- 6月3日完成剑指 Offer；
+- 6月3日完成剑指 Offer，整理剑指 Offer 3-15；
 - 6-7月完成 hot 100；（统计至5月15日止，剩余65题）
 - 8月零星刷题，兼顾数据库笔试题，每日复习1-2题；
