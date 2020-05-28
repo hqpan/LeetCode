@@ -31,3 +31,30 @@ class Solution {
 }
 
 // Solution of LeetCode 260 & ½£Ö¸ Offer 56-I
+class Solution {
+    public int[] singleNumbers(int[] nums) {
+        if (nums == null || nums.length == 0)
+            throw new RuntimeException("Invalid input!");
+        int ans = 0;
+        for (int num : nums)
+            ans ^= num;
+        int mask = getMask(ans);
+        int[] res = new int[2]; 
+        for (int num : nums) {
+            if ((num & mask) == 0)
+                res[0] ^= num;
+            else
+                res[1] ^= num;
+        }
+        return res;
+    }
+
+    public int getMask(int ans) {
+        int count = 0;
+        while ((ans & 1) == 0) {
+            ans = ans >>> 1;
+            count++;
+        }
+        return 1 << count;
+    }
+}

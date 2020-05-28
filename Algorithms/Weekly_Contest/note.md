@@ -22,7 +22,10 @@ switch(expression){
 
 - `java.lang.String`：
   - `public int compareTo(String anotherString)`：比较两个字符串的字典序大小；
-  - `substring(int beginIndex, int endIndex)`：从某个字符串中取子字符串；
+  - 字符串切片：
+    - `public String substring(int beginIndex)`：截取起始索引至字符串结尾的字符；
+    - `public String substring(int beginIndex, int endIndex)`：截取起始索引至`endIndex - 1`的字符；
+    - 注意：`substring`方法的索引从0开始计数；
   - `public char[] toCharArray()`：将字符串转换为字符数组；
   - `public String trim()`：去除字符串首尾空格；
   - `public String replaceAll(String regex, String replacement)`：替换字符串中的部分字符；
@@ -45,6 +48,8 @@ switch(expression){
   - `Object[] toArray()`；
   - `<T> T[] toArray(T[] a)`：将`List`中的元素，作为特定类型的数组返回；
     - E.g. `list.toArray(new String[list.size()])`；
+- `java.util.Collections`：
+  - `public static void reverse(List<?> list)`：将`list`中所有元素反序；
 - Queue：
   - add；
   - poll；
@@ -108,7 +113,7 @@ Queue<Integer> queue = new LinkedList<>();
   - `public boolean containsKey(Object key)`；
   - `public boolean containsValue(Object value)`；
   - `public V put(K key, V value)`；
-  - `public V get(Object key)`；
+  - `public V get(Object key)`：若无对应键，则返回 null；
   - `public V remove(Object key)`；
   - `public Collection<V> values()`；
 - HashSet：`java.util.HashSet`，集合中的元素无序、不重复；

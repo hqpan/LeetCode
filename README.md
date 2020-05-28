@@ -43,6 +43,7 @@
 - [145. Binary Tree Postorder Traversal](./Algorithms/145.Binary_Tree_Postorder_Traversal/note.md).[[Code](./Algorithms/145.Binary_Tree_Postorder_Traversal/Solution.java)]. 145-590；
 - [147. Insertion Sort List](./Algorithms/147.Insertion_Sort_List/note.md).[[Code](./Algorithms/147.Insertion_Sort_List/Solution.java)]. 147-148；
 - [148. Sort List](./Algorithms/148.Sort_List/note.md).[[Code](./Algorithms/148.Sort_List/Solution.java)]. 147-148；
+- [151. Reverse Words in a String](./Algorithms/151.Reverse_Words_in_a_String/note.md).[[Code](./Algorithms/151.Reverse_Words_in_a_String/Solution.java)]. 151-剑指 Offer 58； ==无需复习==
 - [152. Maximum Product Subarray](./Algorithms/152.Maximum_Product_Subarray/note.md).[[Code](./Algorithms/152.Maximum_Product_Subarray/Solution.java)]. 53-152-剑指 Offer 42；
 - [153. Find Minimum in Rotated Sorted Array](./Algorithms/153.Find_Minimum_in_Rotated_Sorted_Array/note.md).[[Code](./Algorithms/153.Find_Minimum_in_Rotated_Sorted_Array/Solution.java)]. 33-81-153-154；
 - [154. Find Minimum in Rotated Sorted Array II](./Algorithms/154.Find_Minimum_in_Rotated_Sorted_Array_II/note.md).[[Code](./Algorithms/154.Find_Minimum_in_Rotated_Sorted_Array_II/Solution.java)]. 33-81-153-154；
@@ -129,6 +130,7 @@
 - [剑指Offer 55](./Algorithms/Offer55/note.md).[[Code](./Algorithms/Offer55/Solution.java)]. 104-110-剑指 Offer 55；
 - [剑指Offer 56](./Algorithms/Offer56/note.md).[[Code](./Algorithms/Offer56/Solution.java)]. 136-137-260-剑指 Offer 56；
 - [剑指Offer 57](./Algorithms/Offer57/note.md).[[Code](./Algorithms/Offer57/Solution.java)]. 
+- [剑指Offer 58](./Algorithms/Offer58/note.md).[[Code](./Algorithms/Offer58/Solution.java)].  151-剑指 Offer 58；==无需复习==
 
 # 4. Database
 
