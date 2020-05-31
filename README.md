@@ -58,6 +58,7 @@
 - [231. Power of Two](./Algorithms/231.Power_of_Two/note.md).[[Code](./Algorithms/231.Power_of_Two/Solution.java)]. 位运算：191-231-461；
 - [232. Implement Queue using Stacks](./Algorithms/232.Implement_Queue_using_Stacks/note.md).[[Code](./Algorithms/232.Implement_Queue_using_Stacks/Solution.java)]. 225-232；
 - [233. Number of Digit One](./Algorithms/233.Number_of_Digit_One/note.md).[[Code](./Algorithms/233.Number_of_Digit_One/Solution.java)]. 233-剑指 Offer 43；
+- [239. Sliding Window Maximum](./Algorithms/239.Sliding_Window_Maximum/note.md).[[Code](./Algorithms/239.Sliding_Window_Maximum/Solution.java)]. 239-剑指 Offer 59；
 - [240. Search a 2D Matrix II](./Algorithms/240.Search_a_2D_Matrix_II/note.md).[[Code](./Algorithms/240.Search_a_2D_Matrix_II/Solution.java)]. 74-240；
 - [260. Single Number III](./Algorithms/260.Single_Number_III/note.md).[[Code](./Algorithms/260.Single_Number_III/Solution.java)]. 136-137-260-剑指 Offer 56；
 - [263. Ugly Number](./Algorithms/263.Ugly_Number/note.md).[[Code](./Algorithms/263.Ugly_Number/Solution.java)]. 263-264-剑指 Offer 49；DP；
@@ -131,6 +132,7 @@
 - [剑指Offer 56](./Algorithms/Offer56/note.md).[[Code](./Algorithms/Offer56/Solution.java)]. 136-137-260-剑指 Offer 56；
 - [剑指Offer 57](./Algorithms/Offer57/note.md).[[Code](./Algorithms/Offer57/Solution.java)]. 
 - [剑指Offer 58](./Algorithms/Offer58/note.md).[[Code](./Algorithms/Offer58/Solution.java)].  151-剑指 Offer 58；==无需复习==
+- [剑指Offer 59](./Algorithms/Offer59/note.md).[[Code](./Algorithms/Offer59/Solution.java)].  239-剑指 Offer 59；
 
 # 4. Database
 
