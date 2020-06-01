@@ -42,12 +42,29 @@ switch(expression){
 
 # 4. 集合类
 
-- List：`List<List<Integer>> list = new ArrayList<List<>>()`；
+- `foreach`语法：适用于数组和集合类；
+- `java.util.List`：List 接口，`get()`和`size()`方法也可用于遍历；
+  - `List<List<Integer>> list = new ArrayList<List<>>()`；
   - `E get(int index)`；
   - `E remove(int index)`；
+  - `int size()`；
+  - `boolean isEmpty()`；
   - `Object[] toArray()`；
   - `<T> T[] toArray(T[] a)`：将`List`中的元素，作为特定类型的数组返回；
     - E.g. `list.toArray(new String[list.size()])`；
+- `java.util.Deque`：接口，双端队列；
+  - `Deque<T> deque = new Deque<>();`；
+- `java.util.LinkedList`：类；
+  - `public void addFirst(E e)`：将元素逐个添加到集合首部，从而得到反序的结果；
+  - `public void addLast(E e)`；
+  - `public E getFirst()`；
+  - `public E getLast()`；
+  - `public E peekFirst()`；
+  - `public E peekLast()`；
+  - `public E pollFirst()`；
+  - `public E pollLast()`；
+  - `public int size()`；
+  - `public Object[] toArray()`；
 - `java.util.Collections`：
   - `public static void reverse(List<?> list)`：将`list`中所有元素反序；
 - Queue：
@@ -96,6 +113,7 @@ Queue<Integer> queue = new LinkedList<>();
   - `public LinkedList(Collection<? extends E> c)`：将实现`Collection`接口的集合中所有元素，用于创建`LinkedList`；
   - `public static void sort(E[] arr)`；
   - `public static String toString(E[] a)`；
+  - `public static T[] copyOfRange(T[] original, T from, T to)`：取子数组，含起始索引，不含终止索引，因此终止索引的值可不位于数组中；
 - ArrayList：`java.util.ArrayList`；
   - add；
   - `public boolean contains(Object o)`；
