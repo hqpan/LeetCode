@@ -134,6 +134,7 @@
 - [剑指Offer 58](./Algorithms/Offer58/note.md).[[Code](./Algorithms/Offer58/Solution.java)].  151-剑指 Offer 58；==无需复习==
 - [剑指Offer 59](./Algorithms/Offer59/note.md).[[Code](./Algorithms/Offer59/Solution.java)].  239-剑指 Offer 59；
 - [剑指Offer 60](./Algorithms/Offer60/note.md).[[Code](./Algorithms/Offer60/Solution.java)]. 
+- [剑指Offer 61](./Algorithms/Offer61/note.md).[[Code](./Algorithms/Offer61/Solution.java)]. 
 
 # 4. Database
 
