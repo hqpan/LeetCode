@@ -175,6 +175,7 @@ Scanner in = new Scanner(System.in);
   - ==注意==：E.g. `1,2,3,4,5`，当处理完数值5后，检测是否还有输入值？
     - 若使用`hasNext()`则返回`false`；
     - 若使用`hasNextLine()`则返回true，因为5后面还有`\n`；
+- ==注意==：使用`for`循环结合`nextInt()`，读取多个输入数据，不易出错；
 - 判断是否还有输入值：
   - `public boolean hasNext()`；
   - `public boolean hasNextLine()`；
