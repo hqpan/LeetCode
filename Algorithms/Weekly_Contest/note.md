@@ -208,6 +208,7 @@ Scanner in = new Scanner(System.in);
 
 # 8. 运算符
 
+- 左移：`<<`，仅调整数值位，不改变符号位，E.g. 不影响负数的符号位；
 - 右移：
   - `>>`：有符号右移；
   - `>>>`：无符号右移；
@@ -294,3 +295,15 @@ Arrays.sort(strs, (x, y) -> (x + y).compareTo(y + x));
   - `public char charAt(int index)`：以字符的形式返回某一位上的值；
   - `return ans - '0'`：即可得对应的整数值；
   - ==注意==：此处不可使用`(int) ans`，该语句将返回 ASCII 码对应的整数值，而非字符表示的整数值；
+
+# 11 其它语法
+
+- `do...while`的语法格式：
+
+```java
+do {
+    // ...
+} while (...);
+```
+
+## 
