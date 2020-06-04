@@ -138,7 +138,7 @@
 - [剑指Offer 61](./Algorithms/Offer61/note.md).[[Code](./Algorithms/Offer61/Solution.java)]. 
 - 剑指Offer 62. 使用环形链表求解，此处不再赘述；
 - [剑指Offer 63](./Algorithms/Offer63/note.md).[[Code](./Algorithms/Offer63/Solution.java)].  121-剑指 Offer 63；
-- [剑指Offer 64](./Algorithms/Offer64/note.md).[[Code](./Algorithms/Offer64/Solution.java)]. 
+- [剑指Offer 65](./Algorithms/Offer65/note.md).[[Code](./Algorithms/Offer65/Solution.java)]. 
 
 # 4. Database
 
