@@ -147,6 +147,7 @@ Queue<Integer> queue = new LinkedList<>();
 
 ```java
 return new int[] {1, 2};
+return new int[0];
 ```
 
 - 返回二维数组：
@@ -305,5 +306,3 @@ do {
     // ...
 } while (...);
 ```
-
-## 

@@ -139,6 +139,7 @@
 - 剑指Offer 62. 使用环形链表求解，此处不再赘述；
 - [剑指Offer 63](./Algorithms/Offer63/note.md).[[Code](./Algorithms/Offer63/Solution.java)].  121-剑指 Offer 63；
 - [剑指Offer 65](./Algorithms/Offer65/note.md).[[Code](./Algorithms/Offer65/Solution.java)]. 
+- [剑指Offer 66](./Algorithms/Offer66/note.md).[[Code](./Algorithms/Offer66/Solution.java)]. 
 
 # 4. Database
 
@@ -155,21 +156,13 @@
 - [620. Not Boring Movies](./Algorithms/620.Not_Boring_Movies/note.md).[[Code](./Algorithms/620.Not_Boring_Movies/Solution.sql)].==无需复习==
 - [627. Swap Salary](./Algorithms/627.Swap_Salary/note.md).[[Code](./Algorithms/627.Swap_Salary/Solution.sql)].==无需复习==
 
-# 5. Unsolved
+# 5. Todo
 
+- 23未处理（某次面试题）：21-剑指 Offer 25 已处理；
 - ==Dynamic Programming 专项训练==；
   - LeetCode 10 & 剑指 Offer 19 中，DP 解法未学习；
   - 完成 hot 100 中所有 DP 习题；
     - 309未处理：121-剑指 Offer 63 已处理；
-- 389;
-- 765H?-142M?-442M;
-- 313M超级丑数-560M;
-  - 204E计算质数-279M完全平方数-23H合并k个排序链表；
-- 234E回文链表；
-- 202E快乐数-204E计算质数-794M有效的井字游戏-972H相等的有理数-800E相似RGB颜色-939M最小面积矩形；
-- 559EN叉树的最大深度-662M二叉树的最大宽度；
-  - 173M二叉搜索树迭代器；
-  - 987M二叉树的垂序遍历-99恢复二叉搜索树H；
 
 # ==Schedule==
 
