@@ -9,6 +9,7 @@
 
 - [1. Two Sum](./Algorithms/1.Two_Sum/note.md).[[Code](./Algorithms/1.Two_Sum/Solution.java)]. 1-15；
 - [3. Longest Substring Without Repeating Characters](./Algorithms/3.Longest_Substring_Without_Repeating_Characters/note.md).[[Code](./Algorithms/3.Longest_Substring_Without_Repeating_Characters/Solution.java)]. 3-剑指 Offer 48；==无需复习==
+- [8. String to Integer (atoi)](./Algorithms/8.String_to_Integer_(atoi)/note.md).[[Code](./Algorithms/8.String_to_Integer_(atoi)/Solution.java)]. 8- 剑指 Offer 67；
 - [9. Palindrome Number](./Algorithms/9.Palindrome_Number/note.md).[[Code](./Algorithms/9.Palindrome_Number/Solution.java)].
 - [10. Regular Expression Matching](./Algorithms/10.Regular_Expression_Matching/note.md).[[Code](./Algorithms/10.Regular_Expression_Matching/Solution.java)]. 10-剑指 Offer 19；
 - [15. 3Sum](./Algorithms/15.3Sum/note.md).[[Code](./Algorithms/15.3Sum/Solution.java)]. 1-15；
@@ -138,8 +139,10 @@
 - [剑指Offer 61](./Algorithms/Offer61/note.md).[[Code](./Algorithms/Offer61/Solution.java)]. 
 - 剑指Offer 62. 使用环形链表求解，此处不再赘述；
 - [剑指Offer 63](./Algorithms/Offer63/note.md).[[Code](./Algorithms/Offer63/Solution.java)].  121-剑指 Offer 63；
+- 剑指Offer 64 暂未处理；
 - [剑指Offer 65](./Algorithms/Offer65/note.md).[[Code](./Algorithms/Offer65/Solution.java)]. 
 - [剑指Offer 66](./Algorithms/Offer66/note.md).[[Code](./Algorithms/Offer66/Solution.java)]. 
+- [剑指Offer 67](./Algorithms/Offer67/note.md).[[Code](./Algorithms/Offer67/Solution.java)].  8- 剑指 Offer 67；
 
 # 4. Database
 
@@ -166,6 +169,6 @@
 
 # ==Schedule==
 
-- 6月3日完成剑指 Offer，整理剑指 Offer 3-15；
+- 6月整理剑指 Offer 3-15；
 - 6-7月完成 hot 100；（统计至5月15日止，剩余65题）
 - 8月零星刷题，兼顾数据库笔试题，每日复习1-2题；

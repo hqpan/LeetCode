@@ -20,7 +20,12 @@ switch(expression){
 
 # 3. 字符串处理
 
+- 对`String`变量赋值：
+  - `String`指向的内容不可变，但`String`中存储的对象引用是可变的；
+  - E.g. `String str = "aaa";   str = "bbb";`；
+  - 对`String`变量赋值的实质是，在内存中开辟新的空间保存新的字符串值，将`String`变量的引用指向新的内存空间；
 - `java.lang.String`：
+  - `java.lang.String`：`public char charAt(int index)`，索引从 0 开始；
   - `public int compareTo(String anotherString)`：比较两个字符串的字典序大小；
   - 字符串切片：
     - `public String substring(int beginIndex)`：截取起始索引至字符串结尾的字符；
