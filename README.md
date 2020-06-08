@@ -60,6 +60,8 @@
 - [231. Power of Two](./Algorithms/231.Power_of_Two/note.md).[[Code](./Algorithms/231.Power_of_Two/Solution.java)]. 位运算：191-231-461；
 - [232. Implement Queue using Stacks](./Algorithms/232.Implement_Queue_using_Stacks/note.md).[[Code](./Algorithms/232.Implement_Queue_using_Stacks/Solution.java)]. 225-232；
 - [233. Number of Digit One](./Algorithms/233.Number_of_Digit_One/note.md).[[Code](./Algorithms/233.Number_of_Digit_One/Solution.java)]. 233-剑指 Offer 43；
+- [235. Lowest Common Ancestor of a Binary Search Tree](./Algorithms/235.Lowest_Common_Ancestor_of_a_Binary_Search_Tree/note.md).[[Code](./Algorithms/235.Lowest_Common_Ancestor_of_a_Binary_Search_Tree/Solution.java)]. 235-236-剑指 Offer 68；
+- [236. Lowest Common Ancestor of a Binary Tree](./Algorithms/236.Lowest_Common_Ancestor_of_a_Binary_Tree/note.md).[[Code](./Algorithms/236.Lowest_Common_Ancestor_of_a_Binary_Tree/Solution.java)]. 235-236-剑指 Offer 68；
 - [238. Product of Array Except Self](./Algorithms/238.Product_of_Array_Except_Self/note.md).[[Code](./Algorithms/238.Product_of_Array_Except_Self/Solution.java)]. 238-剑指 Offer 66；
 - [239. Sliding Window Maximum](./Algorithms/239.Sliding_Window_Maximum/note.md).[[Code](./Algorithms/239.Sliding_Window_Maximum/Solution.java)]. 239-剑指 Offer 59；
 - [240. Search a 2D Matrix II](./Algorithms/240.Search_a_2D_Matrix_II/note.md).[[Code](./Algorithms/240.Search_a_2D_Matrix_II/Solution.java)]. 74-240；
@@ -144,6 +146,7 @@
 - [剑指Offer 65](./Algorithms/Offer65/note.md).[[Code](./Algorithms/Offer65/Solution.java)]. 
 - [剑指Offer 66](./Algorithms/Offer66/note.md).[[Code](./Algorithms/Offer66/Solution.java)].  238-剑指 Offer 66；
 - [剑指Offer 67](./Algorithms/Offer67/note.md).[[Code](./Algorithms/Offer67/Solution.java)].  8- 剑指 Offer 67；
+- [剑指Offer 68](./Algorithms/Offer68/note.md).[[Code](./Algorithms/Offer68/Solution.java)]. 235-236-剑指 Offer 68；
 
 # 4. Database
 
@@ -162,8 +165,8 @@
 
 # 5. Todo
 
-- 23未处理（某次面试题）：21-剑指 Offer 25 已处理；
-- ==Dynamic Programming 专项训练==；
+- [ ] 23未处理（某次面试题）：21-剑指 Offer 25 已处理；
+- [ ] ==Dynamic Programming 专项训练==；
   - LeetCode 10 & 剑指 Offer 19 中，DP 解法未学习；
   - 完成 hot 100 中所有 DP 习题；
     - 309 未处理：121-剑指 Offer 63 已处理；
