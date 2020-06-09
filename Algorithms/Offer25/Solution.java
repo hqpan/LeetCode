@@ -6,7 +6,7 @@
  *     ListNode(int x) { val = x; }
  * }
  */
-// Approach 1: Recursion
+// Solution of LeetCode 21, Approach 1: Recursion
 class Solution {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         if (l1 == null)
@@ -23,7 +23,7 @@ class Solution {
     }
 }
 
-// Approach 2: Iteration
+// Solution of LeetCode 21, Approach 2: Iteration
 class Solution {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode head = new ListNode(0);
@@ -39,6 +39,27 @@ class Solution {
             curr = curr.next;
         }
         curr.next = l1 == null ? l2 : l1;
+        return head.next;
+    }
+}
+
+// Solution of LeetCode 23
+class Solution {
+    public ListNode mergeKLists(ListNode[] lists) {
+        if (lists == null || lists.length == 0)
+            return null;
+        ListNode head = new ListNode(-1);
+        ListNode tail = head;
+        Queue<ListNode> heap = new PriorityQueue<>((x, y) -> x.val - y.val);
+        for (ListNode node : lists)
+            if (node != null)
+                heap.add(node);
+        while (!heap.isEmpty()) {
+            tail.next = heap.poll();
+            tail = tail.next;
+            if (tail.next != null)
+                heap.add(tail.next);
+        }
         return head.next;
     }
 }

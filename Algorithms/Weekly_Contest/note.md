@@ -48,6 +48,7 @@ switch(expression){
 # 4. 集合类
 
 - `foreach`语法：适用于数组和集合类；
+
 - `java.util.List`：List 接口，`get()`和`size()`方法也可用于遍历；
   - `List<List<Integer>> list = new ArrayList<List<>>()`；
   - `E get(int index)`；
@@ -57,8 +58,11 @@ switch(expression){
   - `Object[] toArray()`；
   - `<T> T[] toArray(T[] a)`：将`List`中的元素，作为特定类型的数组返回；
     - E.g. `list.toArray(new String[list.size()])`；
+  
 - `java.util.Deque`：接口，双端队列；
+  
   - `Deque<T> deque = new Deque<>();`；
+  
 - `java.util.LinkedList`：类；
   - `public void addFirst(E e)`：将元素逐个添加到集合首部，从而得到反序的结果；
   - `public void addLast(E e)`；
@@ -70,32 +74,33 @@ switch(expression){
   - `public E pollLast()`；
   - `public int size()`；
   - `public Object[] toArray()`；
+  
 - `java.util.Collections`：
+  
   - `public static void reverse(List<?> list)`：将`list`中所有元素反序；
-- Queue：
-  - add；
-  - poll；
-  - peek；
-  - remove；
-  - isEmpty；
+  
+- `java.util.Queue`：接口；
+  
+  - `add()`；
+  - `peek()`；
+  - `poll()`；
+  - `remove()`；
+  
+  - `isEmpty`；
   - `Iterator<E> iterator()`；
-
-```java
-import java.util.Queue;
-import java.util.LinkedList;
-Queue<Integer> queue = new LinkedList<>();
-```
-
+  
 - PriorityQueue：`java.util.PriorityQueue`；
   - 构造函数：
     - `public PriorityQueue()`：默认容量为11，不指定比较器时，默认为最小堆；
     - `public PriorityQueue(int initialCapacity)`；
     - `public PriorityQueue(Comparator<? super E> comparator)`：比较器用于确定优先队列中数值的顺序；
     - `public PriorityQueue(int initialCapacity, Comparator<? super E> comparator)`；
+    - 若优先队列中存放自定义类型数据，则需提供比较器；
     - ==注意==：比较器的 lambda 表达式写法：
       - `PriorityQueue<Integer> heap = new PriorityQueue<>((val1, val2) -> val1 - val2);`：最小堆；
       - `PriorityQueue<Integer> heap = new PriorityQueue<>((val1, val2) -> val2 - val1);`：最大堆；
       - 括号中的`(val1, val2)`表示函数参数，`->`后的`val1 - val2`表示函数返回值；
+      - E.g. `Queue<ListNode> heap = new PriorityQueue<>((x, y) -> x.val - y.val)`；
   - `public boolean add(E e)`：时间复杂度$O(logn)$；
   - `public E peek()`：时间复杂度$O(1)$；
   - `public E poll()`：时间复杂度$O(logn)$；
@@ -107,6 +112,7 @@ Queue<Integer> queue = new LinkedList<>();
     - Java 中的强制类型转换仅针对单个对象，无法对数组实现强制类型转换；
     - 该方法可将集合对象转换为特定类型的数组，E.g. String、Integer；
     - 若题目要求返回值为`int`类型，则返回`Integer`类型的数组将报错，因为无法对数组执行强制类型转换（自动拆箱）；
+  
 - Stack：`java.util.Stack`；
   - push；
   - pop；
@@ -114,11 +120,13 @@ Queue<Integer> queue = new LinkedList<>();
   - remove；
   - isEmpty；
   - `Iterator<E> iterator()`；
+  
 - Arrays：`java.util.Arrays`；
   - `public LinkedList(Collection<? extends E> c)`：将实现`Collection`接口的集合中所有元素，用于创建`LinkedList`；
   - `public static void sort(E[] arr)`；
   - `public static String toString(E[] a)`；
   - `public static T[] copyOfRange(T[] original, T from, T to)`：取子数组，含起始索引，不含终止索引，因此终止索引的值可不位于数组中；
+  
 - ArrayList：`java.util.ArrayList`；
   - add；
   - `public boolean contains(Object o)`；
@@ -129,6 +137,7 @@ Queue<Integer> queue = new LinkedList<>();
   - remove；
   - `public Object[] toArray()`；
   - size；
+  
 - HashMap：`java.util.HashMap;`；
   - `public void clear()`；
   - isEmpty；
@@ -139,6 +148,7 @@ Queue<Integer> queue = new LinkedList<>();
   - `public V get(Object key)`：若无对应键，则返回 null；
   - `public V remove(Object key)`；
   - `public Collection<V> values()`；
+  
 - HashSet：`java.util.HashSet`，集合中的元素无序、不重复；
   - `public boolean add(E e)`；
   - `public boolean remove(Object o)`；

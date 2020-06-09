@@ -14,7 +14,8 @@
 - [10. Regular Expression Matching](./Algorithms/10.Regular_Expression_Matching/note.md).[[Code](./Algorithms/10.Regular_Expression_Matching/Solution.java)]. 10-剑指 Offer 19；
 - [15. 3Sum](./Algorithms/15.3Sum/note.md).[[Code](./Algorithms/15.3Sum/Solution.java)]. 1-15；
 - [19. Remove Nth Node From End of List](./Algorithms/19.Remove_Nth_Node_From_End_of_List/note.md).[[Code](./Algorithms/19.Remove_Nth_Node_From_End_of_List/Solution.java)]. 19-剑指 Offer 22；
-- [21. Merge Two Sorted Lists](./Algorithms/21.Merge_Two_Sorted_Lists/note.md).[[Code](./Algorithms/21.Merge_Two_Sorted_Lists/Solution.java)]. 21-剑指 Offer 25；==无需复习==
+- [21. Merge Two Sorted Lists](./Algorithms/21.Merge_Two_Sorted_Lists/note.md).[[Code](./Algorithms/21.Merge_Two_Sorted_Lists/Solution.java)]. 21-剑指 Offer 25-23；==无需复习==
+- [23. Merge k Sorted Lists](./Algorithms/23.Merge_k_Sorted_Lists/note.md).[[Code](./Algorithms/23.Merge_k_Sorted_Lists/Solution.java)]. 21-剑指 Offer 25-23；
 - [33. Search in Rotated Sorted Array](./Algorithms/33.Search_in_Rotated_Sorted_Array/note.md).[[Code](./Algorithms/33.Search_in_Rotated_Sorted_Array/Solution.java)]. 33-81-153-154；
 - [34. Find First and Last Position of Element in Sorted Array](./Algorithms/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array/note.md).[[Code](./Algorithms/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array/Solution.java)]. 34-剑指 Offer 53；
 - [41. First Missing Positive](./Algorithms/41.First_Missing_Positive/note.md).[[Code](./Algorithms/41.First_Missing_Positive/Solution.java)].
@@ -103,7 +104,7 @@
 - [剑指Offer 22](./Algorithms/Offer22/note.md).[[Code](./Algorithms/Offer22/Solution.java)].  19-剑指 Offer 22；==无需复习==
 - [剑指Offer 23](./Algorithms/Offer23/note.md).[[Code](./Algorithms/Offer23/Solution.java)]. 287-剑指 Offer 23；Review: 1；
 - [剑指Offer 24](./Algorithms/Offer24/note.md).[[Code](./Algorithms/Offer24/Solution.java)]. 206-剑指 Offer 24；Review: 1；
-- [剑指Offer 25](./Algorithms/Offer25/note.md).[[Code](./Algorithms/Offer25/Solution.java)]. 21-剑指 Offer 25；==无需复习==
+- [剑指Offer 25](./Algorithms/Offer25/note.md).[[Code](./Algorithms/Offer25/Solution.java)]. 21-剑指 Offer 25-23；==无需复习==
 - [剑指Offer 26](./Algorithms/Offer26/note.md).[[Code](./Algorithms/Offer26/Solution.java)]. ==无需复习==
 - [剑指Offer 27](./Algorithms/Offer27/note.md).[[Code](./Algorithms/Offer27/Solution.java)]. 226-剑指 Offer 27；==无需复习==
 - [剑指Offer 28](./Algorithms/Offer28/note.md).[[Code](./Algorithms/Offer28/Solution.java)]. 101-剑指 Offer 28；==无需复习==
@@ -164,8 +165,6 @@
 - [627. Swap Salary](./Algorithms/627.Swap_Salary/note.md).[[Code](./Algorithms/627.Swap_Salary/Solution.sql)].==无需复习==
 
 # 5. Todo
-
-- [ ] 23未处理（某次面试题）：21-剑指 Offer 25 已处理；
 - [ ] ==Dynamic Programming 专项训练==；
   - LeetCode 10 & 剑指 Offer 19 中，DP 解法未学习；
   - 完成 hot 100 中所有 DP 习题；
