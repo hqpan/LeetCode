@@ -38,6 +38,7 @@
 - [111. Minimum Depth of Binary Tree](./Algorithms/111.Minimum_Depth_of_Binary_Tree/note.md).[[Code](./Algorithms/111.Minimum_Depth_of_Binary_Tree/Solution.java)].
 - [112. Path Sum](./Algorithms/112.Path_Sum/note.md).[[Code](./Algorithms/112.Path_Sum/Solution.java)]. 112-113-剑指 Offer 34-437；
 - [113. Path Sum II](./Algorithms/113.Path_Sum_II/note.md).[[Code](./Algorithms/113.Path_Sum_II/Solution.java)]. 112-113-剑指 Offer 34-437；
+- [114. Flatten Binary Tree to Linked List](./Algorithms/114.Flatten_Binary_Tree_to_Linked_List/note.md).[[Code](./Algorithms/114.Flatten_Binary_Tree_to_Linked_List/Solution.java)]. 114-剑指 Offer 36；
 - [121. Best Time to Buy and Sell Stock](./Algorithms/121.Best_Time_to_Buy_and_Sell_Stock/note.md).[[Code](./Algorithms/121.Best_Time_to_Buy_and_Sell_Stock/Solution.java)]. 121-剑指 Offer 63；
 - [136. Single Number](./Algorithms/136.Single_Number/note.md).[[Code](./Algorithms/136.Single_Number/Solution.java)]. 136-137-260-剑指 Offer 56；
 - [137. Single Number II](./Algorithms/137.Single_Number_II/note.md).[[Code](./Algorithms/137.Single_Number_II/Solution.java)]. 136-137-260-剑指 Offer 56；
@@ -114,8 +115,8 @@
 - [剑指Offer 32-I & 32-II & 32-III](./Algorithms/Offer32/note.md).[[Code](./Algorithms/Offer32/Solution.java)]. 102-剑指 Offer 32；
 - [剑指Offer 33](./Algorithms/Offer33/note.md).[[Code](./Algorithms/Offer33/Solution.java)]. 
 - [剑指Offer 34](./Algorithms/Offer34/note.md).[[Code](./Algorithms/Offer33/Solution.java)]. 112-113-剑指 Offer 34-437；
-- [剑指Offer 35](./Algorithms/Offer35/note.md).[[Code](./Algorithms/Offer35/Solution.java)].  138-剑指 Offer 35；
-- [剑指Offer 36](./Algorithms/Offer36/note.md).[[Code](./Algorithms/Offer36/Solution.java)].
+- [剑指Offer 35](./Algorithms/Offer35/note.md).[[Code](./Algorithms/Offer35/Solution.java)]. 138-剑指 Offer 35；
+- [剑指Offer 36](./Algorithms/Offer36/note.md).[[Code](./Algorithms/Offer36/Solution.java)]. 114-剑指 Offer 36；
 - [剑指Offer 37](./Algorithms/Offer37/note.md).[[Code](./Algorithms/Offer37/Solution.java)]. 297-剑指 Offer 37；
 - [剑指Offer 38](./Algorithms/Offer38/note.md).[[Code](./Algorithms/Offer38/Solution.java)].
 - [剑指Offer 39](./Algorithms/Offer39/note.md).[[Code](./Algorithms/Offer39/Solution.java)]. 169-剑指 Offer 39；
@@ -165,11 +166,9 @@
 - [627. Swap Salary](./Algorithms/627.Swap_Salary/note.md).[[Code](./Algorithms/627.Swap_Salary/Solution.sql)].==无需复习==
 
 # 5. Todo
-- [ ] ==Dynamic Programming 专项训练==；
+- [ ] 完成 hot 100 中所有 DP 习题：
   - LeetCode 10 & 剑指 Offer 19 中，DP 解法未学习；
-  - 完成 hot 100 中所有 DP 习题；
-    - 309 未处理：121-剑指 Offer 63 已处理；
-    - 114 未处理：剑指 Offer 36 已处理；
+  - 309 未处理：121-剑指 Offer 63 已处理；
 
 # ==Schedule==
 
