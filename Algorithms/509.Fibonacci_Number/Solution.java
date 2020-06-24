@@ -1,29 +1,15 @@
-// Approach 1: Recursion
 class Solution {
     public int fib(int N) {
-        if (N < 0)
-            throw new RuntimeException("Input N >= 0."); // RuntimeExceptionÎÞÐècatch
-        if (N <= 1)
-            return N;
-        return fib(N - 1) + fib(N - 2);
-    }
-}
-
-// Approach 2: Iteration
-class Solution {
-    public int fib(int N) {
-        if (N < 0)
-            throw new RuntimeException("Input N >= 0.");
-        if (N <= 1)
-            return N;
+        if (N == 0)
+            return 0;
         int lo = 0;
         int hi = 1;
-        int ans = -1;
-        while (N-- > 1) {
-            ans = hi + lo;
+        int sum = 0;
+        for (int i = 2; i <= N; i++) {
+            sum = lo + hi;
             lo = hi;
-            hi = ans;
+            hi = sum; 
         }
-        return ans;
+        return hi;
     }
 }

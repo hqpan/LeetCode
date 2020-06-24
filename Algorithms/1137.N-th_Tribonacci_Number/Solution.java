@@ -1,19 +1,17 @@
 class Solution {
     public int tribonacci(int n) {
-        if (n < 0)
-            throw new RuntimeException("Input n >= 0.");
-        if (n < 2)
-            return n;
-        int num0 = 0;
-        int num1 = 1;
-        int num2 = 1;
-        int ans = 1;
-        while (n-- > 2) {
-            ans = num2 + num1 + num0;
-            num0 = num1;
-            num1 = num2;
-            num2 = ans;
+        if (n == 0)
+            return 0;
+        int value1 = 0;
+        int value2 = 1;
+        int value3 = 1;
+        int sum = 0;
+        for (int i = 3; i <= n; i++) {
+            sum = value1 + value2 + value3;
+            value1 = value2;
+            value2 = value3;
+            value3 = sum;
         }
-        return ans;
+        return value3;
     }
 }

@@ -23,7 +23,7 @@
 - [53. Maximum Subarray](./Algorithms/53.Maximum_Subarray/note.md).[[Code](./Algorithms/53.Maximum_Subarray/Solution.java)]. 53-152-剑指 Offer 42；
 - [54. Spiral Matrix](./Algorithms/54.Spiral_Matrix/note.md).[[Code](./Algorithms/54.Spiral_Matrix/Solution.java)]. 54-剑指 Offer 29；==无需复习==
 - [65. Valid Number](./Algorithms/65.Valid_Number/note.md).[[Code](./Algorithms/65.Valid_Number/Solution.java)]. 65-剑指 Offer 20；
-- [70. Climbing Stairs](./Algorithms/70.Climbing_Stairs/note.md).[[Code](./Algorithms/70.Climbing_Stairs/Solution.java)]. 70-509-1137；
+- [70. Climbing Stairs](./Algorithms/70.Climbing_Stairs/note.md).[[Code](./Algorithms/70.Climbing_Stairs/Solution.java)]. 70-509-1137-剑指 Offer 10；==无需复习==
 - [74. Search a 2D Matrix](./Algorithms/74.Search_a_2D_Matrix/note.md).[[Code](./Algorithms/74.Search_a_2D_Matrix/Solution.java)]. 74-240；
 - [79. Word Search](./Algorithms/79.Word_Search/note.md).[[Code](./Algorithms/79.Word_Search/Solution.java)]. 回溯；
 - [81. Search in Rotated Sorted Array II](./Algorithms/81.Search_in_Rotated_Sorted_Array_II/note.md).[[Code](./Algorithms/81.Search_in_Rotated_Sorted_Array_II/Solution.java)]. 33-81-153-154；
@@ -80,7 +80,7 @@
 - [448. Find All Numbers Disappeared in an Array](./Algorithms/448.Find_All_Numbers_Disappeared_in_an_Array/note.md).[[Code](./Algorithms/448.Find_All_Numbers_Disappeared_in_an_Array/Solution.java)].
 - [461. Hamming Distance](./Algorithms/461.Hamming_Distance/note.md).[[Code](./Algorithms/461.Hamming_Distance/Solution.java)]. 位运算：191-231-461；
 - [507. Perfect Number](./Algorithms/507.Perfect_Number/note.md).[[Code](./Algorithms/507.Perfect_Number/Solution.java)].
-- [509. Fibonacci Number](./Algorithms/509.Fibonacci_Number/note.md).[[Code](./Algorithms/509.Fibonacci_Number/Solution.java)]. 70-509-1137；
+- [509. Fibonacci Number](./Algorithms/509.Fibonacci_Number/note.md).[[Code](./Algorithms/509.Fibonacci_Number/Solution.java)]. 70-509-1137-剑指 Offer 10；==无需复习==
 - [538. Convert BST to Greater Tree](./Algorithms/538.Convert_BST_to_Greater_Tree/note.md).[[Code](./Algorithms/538.Convert_BST_to_Greater_Tree/Solution.java)].
 - [543. Diameter of Binary Tree](./Algorithms/543.Diameter_of_Binary_Tree/note.md).[[Code](./Algorithms/543.Diameter_of_Binary_Tree/Solution.java)].
 - [589. N-ary Tree Preorder Traversal](./Algorithms/589.N-ary_Tree_Preorder_Traversal/note.md).[[Code](./Algorithms/589.N-ary_Tree_Preorder_Traversal/Solution.java)].
@@ -95,6 +95,7 @@
 
 # 3. 剑指 Offer
 
+- [剑指Offer 10](./Algorithms/Offer10/note.md).[[Code](./Algorithms/Offer10/Solution.java)]. 70-509-1137-剑指 Offer 10；==无需复习==
 - [剑指Offer 14](./Algorithms/Offer14/note.md).[[Code](./Algorithms/Offer14/Solution.java)]. 343-剑指 Offer 14；
 - [剑指Offer 16](./Algorithms/Offer16/note.md).[[Code](./Algorithms/Offer16/Solution.java)]. 50-剑指 Offer 16；
 - 剑指Offer 17. 在 LeetCode 中被弱化，此处不再赘述；
@@ -165,7 +166,7 @@
 - [620. Not Boring Movies](./Algorithms/620.Not_Boring_Movies/note.md).[[Code](./Algorithms/620.Not_Boring_Movies/Solution.sql)].==无需复习==
 - [627. Swap Salary](./Algorithms/627.Swap_Salary/note.md).[[Code](./Algorithms/627.Swap_Salary/Solution.sql)].==无需复习==
 
-# 5. Todo
+# TODO
 - [ ] 完成 hot 100 中所有 DP 习题：
   - LeetCode 10 & 剑指 Offer 19 中，DP 解法未学习；
   - 309 未处理：121-剑指 Offer 63 已处理；
