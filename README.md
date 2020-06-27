@@ -54,12 +54,12 @@
 - [155. Min Stack](./Algorithms/155.Min_Stack/note.md).[[Code](./Algorithms/155.Min_Stack/Solution.java)]. 155-剑指 Offer 30；==无需复习==
 - [160. Intersection of Two Linked Lists](./Algorithms/160.Intersection_of_Two_Linked_Lists/note.md).[[Code](./Algorithms/160.Intersection_of_Two_Linked_Lists/Solution.java)]. 160-剑指 Offer 52；
 - [169. Majority Element](./Algorithms/169.Majority_Element/note.md).[[Code](./Algorithms/169.Majority_Element/Solution.java)]. 169-剑指 Offer 39；
-- [191. Number of 1 Bits](./Algorithms/191.Number_of_1_Bits/note.md).[[Code](./Algorithms/191.Number_of_1_Bits/Solution.java)]. 191-231-461-剑指 Offer 15；
+- [191. Number of 1 Bits](./Algorithms/191.Number_of_1_Bits/note.md).[[Code](./Algorithms/191.Number_of_1_Bits/Solution.java)]. 191-231-461-剑指 Offer 15；Review: 1；
 - [206. Reverse Linked List](./Algorithms/206.Reverse_Linked_List/note.md).[[Code](./Algorithms/206.Reverse_Linked_List/Solution.java)].  206-剑指 Offer 24；Review: 1；
 - [215. Kth Largest Element in an Array](./Algorithms/215.Kth_Largest_Element_in_an_Array/note.md).[[Code](./Algorithms/215.Kth_Largest_Element_in_an_Array/Solution.java)].  215-剑指 Offer 40；
 - [225. Implement Stack using Queues](./Algorithms/225.Implement_Stack_using_Queues/note.md).[[Code](./Algorithms/225.Implement_Stack_using_Queues/Solution.java)]. 225-232；
 - [226. Invert Binary Tree](./Algorithms/226.Invert_Binary_Tree/note.md).[[Code](./Algorithms/226.Invert_Binary_Tree/Solution.java)]. 226-剑指 Offer 27；==无需复习==
-- [231. Power of Two](./Algorithms/231.Power_of_Two/note.md).[[Code](./Algorithms/231.Power_of_Two/Solution.java)]. 191-231-461-剑指 Offer 15；
+- [231. Power of Two](./Algorithms/231.Power_of_Two/note.md).[[Code](./Algorithms/231.Power_of_Two/Solution.java)]. 191-231-461-剑指 Offer 15；Review: 1；
 - [232. Implement Queue using Stacks](./Algorithms/232.Implement_Queue_using_Stacks/note.md).[[Code](./Algorithms/232.Implement_Queue_using_Stacks/Solution.java)]. 225-232；
 - [233. Number of Digit One](./Algorithms/233.Number_of_Digit_One/note.md).[[Code](./Algorithms/233.Number_of_Digit_One/Solution.java)]. 233-剑指 Offer 43；
 - [235. Lowest Common Ancestor of a Binary Search Tree](./Algorithms/235.Lowest_Common_Ancestor_of_a_Binary_Search_Tree/note.md).[[Code](./Algorithms/235.Lowest_Common_Ancestor_of_a_Binary_Search_Tree/Solution.java)]. 235-236-剑指 Offer 68；
@@ -78,7 +78,7 @@
 - [400. Nth Digit](./Algorithms/400.Nth_Digit/note.md).[[Code](./Algorithms/400.Nth_Digit/Solution.java)]. 400-剑指 Offer 44；
 - [437. Path Sum III](./Algorithms/437.Path_Sum_III/note.md).[[Code](./Algorithms/437.Path_Sum_III/Solution.java)]. 112-113-剑指 Offer 34-437；
 - [448. Find All Numbers Disappeared in an Array](./Algorithms/448.Find_All_Numbers_Disappeared_in_an_Array/note.md).[[Code](./Algorithms/448.Find_All_Numbers_Disappeared_in_an_Array/Solution.java)].
-- [461. Hamming Distance](./Algorithms/461.Hamming_Distance/note.md).[[Code](./Algorithms/461.Hamming_Distance/Solution.java)]. 191-231-461-剑指 Offer 15；
+- [461. Hamming Distance](./Algorithms/461.Hamming_Distance/note.md).[[Code](./Algorithms/461.Hamming_Distance/Solution.java)]. 191-231-461-剑指 Offer 15；Review: 1；
 - [507. Perfect Number](./Algorithms/507.Perfect_Number/note.md).[[Code](./Algorithms/507.Perfect_Number/Solution.java)].
 - [509. Fibonacci Number](./Algorithms/509.Fibonacci_Number/note.md).[[Code](./Algorithms/509.Fibonacci_Number/Solution.java)]. 70-509-1137-剑指 Offer 10；==无需复习==
 - [538. Convert BST to Greater Tree](./Algorithms/538.Convert_BST_to_Greater_Tree/note.md).[[Code](./Algorithms/538.Convert_BST_to_Greater_Tree/Solution.java)].
@@ -95,9 +95,10 @@
 
 # 3. 剑指 Offer
 
+- [剑指Offer 3](./Algorithms/Offer3/note.md).[[Code](./Algorithms/Offer3/Solution.java)]. Review: 1；
 - [剑指Offer 10](./Algorithms/Offer10/note.md).[[Code](./Algorithms/Offer10/Solution.java)]. 70-509-1137-剑指 Offer 10；==无需复习==
 - [剑指Offer 14](./Algorithms/Offer14/note.md).[[Code](./Algorithms/Offer14/Solution.java)]. 343-剑指 Offer 14；
-- [剑指Offer 15](./Algorithms/Offer15/note.md).[[Code](./Algorithms/Offer15/Solution.java)]. 191-231-461-剑指 Offer 15；
+- [剑指Offer 15](./Algorithms/Offer15/note.md).[[Code](./Algorithms/Offer15/Solution.java)]. 191-231-461-剑指 Offer 15；Review: 1；
 - [剑指Offer 16](./Algorithms/Offer16/note.md).[[Code](./Algorithms/Offer16/Solution.java)]. 50-剑指 Offer 16；
 - 剑指Offer 17. 在 LeetCode 中被弱化，此处不再赘述；
 - [剑指Offer 18](./Algorithms/Offer18/note.md).[[Code](./Algorithms/Offer18/Solution.java)].
