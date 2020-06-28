@@ -97,6 +97,7 @@
 
 - [剑指Offer 3](./Algorithms/Offer3/note.md).[[Code](./Algorithms/Offer3/Solution.java)]. Review: 1；
 - [剑指Offer 10](./Algorithms/Offer10/note.md).[[Code](./Algorithms/Offer10/Solution.java)]. 70-509-1137-剑指 Offer 10；==无需复习==
+- [剑指Offer 13](./Algorithms/Offer13/note.md).[[Code](./Algorithms/Offer13/Solution.java)]. Review: 1；
 - [剑指Offer 14](./Algorithms/Offer14/note.md).[[Code](./Algorithms/Offer14/Solution.java)]. 343-剑指 Offer 14；
 - [剑指Offer 15](./Algorithms/Offer15/note.md).[[Code](./Algorithms/Offer15/Solution.java)]. 191-231-461-剑指 Offer 15；Review: 1；
 - [剑指Offer 16](./Algorithms/Offer16/note.md).[[Code](./Algorithms/Offer16/Solution.java)]. 50-剑指 Offer 16；
