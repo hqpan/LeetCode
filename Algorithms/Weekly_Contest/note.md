@@ -221,6 +221,20 @@ Scanner in = new Scanner(System.in);
     - `public float nextFloat()`：$[0.0, 1.0]$；
     - `public double nextDouble()`：$[0.0, 1.0]$；
   - `java.lang.Math`：`public static double random()`，$[0.0, 1.0)$；
+- `java.math.BigInteger`：
+  - 构造器：`public BigInteger(String val)`；
+  - `public BigInteger add(BigInteger val)`；
+  - `public BigInteger subtract(BigInteger val)`；
+  - `public BigInteger multiply(BigInteger val)`；
+  - `public BigInteger divide(BigInteger val)`；
+  - `public String toString()`；
+- `java.math.BigDecimal`：
+  - 构造器：`public BigDecimal(String val)`；
+  - `public BigDecimal add(BigDecimal augend)`；
+  - `public BigDecimal subtract(BigDecimal subtrahend)`；
+  - `public BigDecimal multiply(BigDecimal multiplicand)`；
+  - `public BigDecimal divide(BigDecimal divisor)`；
+  - `public String toString()`；
 
 # 8. 运算符
 
